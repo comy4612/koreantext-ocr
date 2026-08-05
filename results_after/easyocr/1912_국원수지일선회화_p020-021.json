@@ -1,0 +1,577 @@
+{
+  "source": "1912_국원수지일선회화_p020-021.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "ko",
+      "conf": 0.4973,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 4,
+        "ja": 0
+      },
+      "text": "#\n평\n:표\nRR"
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "ko",
+      "conf": 0.8901,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "석}\n六\n꿀"
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "ko",
+      "conf": 0.0991,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "유;\n8\n꿀"
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "ko",
+      "conf": 0.9976,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "도"
+    },
+    {
+      "region": "p1_r1",
+      "order": 5,
+      "file": "p1_r1_col05.png",
+      "lang": "ko",
+      "conf": 0.2416,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 4,
+        "ja": 0
+      },
+      "text": "표\n#\n'\n도?"
+    },
+    {
+      "region": "p1_r1",
+      "order": 6,
+      "file": "p1_r1_col06.png",
+      "lang": "ko",
+      "conf": 0.581,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 4,
+        "ja": 0
+      },
+      "text": "경\n+\n상\n호"
+    },
+    {
+      "region": "p1_r1",
+      "order": 7,
+      "file": "p1_r1_col07.png",
+      "lang": "ko",
+      "conf": 0.6028,
+      "n_boxes": 11,
+      "by_lang": {
+        "ko": 6,
+        "ja": 5
+      },
+      "text": "$\n入\n{\nッ\n경 \n상\n~\n+\n불\nク\nフ"
+    },
+    {
+      "region": "p1_r1",
+      "order": 8,
+      "file": "p1_r1_col08.png",
+      "lang": "unknown",
+      "conf": 0.4965,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 3,
+        "ja": 1
+      },
+      "text": " ?\n;\n'L\n;"
+    },
+    {
+      "region": "p1_r1",
+      "order": 9,
+      "file": "p1_r1_col09.png",
+      "lang": "ko",
+      "conf": 0.5093,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 3,
+        "ja": 2
+      },
+      "text": "う\n코\n'7\n;\n1"
+    },
+    {
+      "region": "p1_r1",
+      "order": 10,
+      "file": "p1_r1_col10.png",
+      "lang": "unknown",
+      "conf": 0.4245,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "J\n)"
+    },
+    {
+      "region": "p1_r1",
+      "order": 11,
+      "file": "p1_r1_col11.png",
+      "lang": "ja",
+      "conf": 0.3382,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 3,
+        "ja": 2
+      },
+      "text": "$\n豊\n>\n'>\n1"
+    },
+    {
+      "region": "p1_r1",
+      "order": 12,
+      "file": "p1_r1_col12.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 1,
+      "file": "p1_r2_col01.png",
+      "lang": "ja",
+      "conf": 0.8451,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 3,
+        "ja": 2
+      },
+      "text": "-]\n#\n地\n#\n名"
+    },
+    {
+      "region": "p1_r2",
+      "order": 2,
+      "file": "p1_r2_col02.png",
+      "lang": "ko",
+      "conf": 0.4603,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 4,
+        "ja": 1
+      },
+      "text": "#\n꿀\n북\nジ\n1"
+    },
+    {
+      "region": "p1_r2",
+      "order": 3,
+      "file": "p1_r2_col03.png",
+      "lang": "unknown",
+      "conf": 0.0576,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "a"
+    },
+    {
+      "region": "p1_r2",
+      "order": 4,
+      "file": "p1_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.3354,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "시"
+    },
+    {
+      "region": "p1_r2",
+      "order": 5,
+      "file": "p1_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.4082,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "豊\n2\n소"
+    },
+    {
+      "region": "p1_r2",
+      "order": 6,
+      "file": "p1_r2_col06.png",
+      "lang": "ko",
+      "conf": 0.41,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "~\n용?"
+    },
+    {
+      "region": "p1_r2",
+      "order": 7,
+      "file": "p1_r2_col07.png",
+      "lang": "ko",
+      "conf": 0.2196,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "j \n천\n인"
+    },
+    {
+      "region": "p1_r2",
+      "order": 8,
+      "file": "p1_r2_col08.png",
+      "lang": "ko",
+      "conf": 0.6831,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 3,
+        "ja": 1
+      },
+      "text": "#\n7\n분\n>"
+    },
+    {
+      "region": "p1_r3",
+      "order": 1,
+      "file": "p1_r3_col01.png",
+      "lang": "ja",
+      "conf": 0.3024,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "言"
+    },
+    {
+      "region": "p1_r3",
+      "order": 2,
+      "file": "p1_r3_col02.png",
+      "lang": "ko",
+      "conf": 0.6046,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 4,
+        "ja": 1
+      },
+      "text": "팩\n4\n평\nグ\n양'"
+    },
+    {
+      "region": "p1_r3",
+      "order": 3,
+      "file": "p1_r3_col03.png",
+      "lang": "ko",
+      "conf": 0.6213,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 1,
+        "ja": 2
+      },
+      "text": "원\nオ\n#"
+    },
+    {
+      "region": "p1_r3",
+      "order": 4,
+      "file": "p1_r3_col04.png",
+      "lang": "unknown",
+      "conf": 0.3236,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "}\n+"
+    },
+    {
+      "region": "p1_r3",
+      "order": 5,
+      "file": "p1_r3_col05.png",
+      "lang": "ko",
+      "conf": 0.5687,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 4,
+        "ja": 1
+      },
+      "text": "뼈\n정\n5\n1\n7"
+    },
+    {
+      "region": "p1_r3",
+      "order": 6,
+      "file": "p1_r3_col06.png",
+      "lang": "ja",
+      "conf": 0.5512,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "#?\nギ"
+    },
+    {
+      "region": "p1_r3",
+      "order": 7,
+      "file": "p1_r3_col07.png",
+      "lang": "ko",
+      "conf": 0.4767,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 5,
+        "ja": 0
+      },
+      "text": "#\n춤\n거\n목출\n차"
+    },
+    {
+      "region": "p1_r3",
+      "order": 8,
+      "file": "p1_r3_col08.png",
+      "lang": "ko",
+      "conf": 0.7504,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 3,
+        "ja": 3
+      },
+      "text": "[{\n山\"\n마\n1\n산\nサ"
+    },
+    {
+      "region": "p1_r3",
+      "order": 9,
+      "file": "p1_r3_col09.png",
+      "lang": "ko",
+      "conf": 0.1052,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "뼈\nご\n군?"
+    },
+    {
+      "region": "p1_r3",
+      "order": 10,
+      "file": "p1_r3_col10.png",
+      "lang": "ko",
+      "conf": 0.0842,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "#톱\n봄?"
+    },
+    {
+      "region": "p2_r1",
+      "order": 1,
+      "file": "p2_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r1",
+      "order": 2,
+      "file": "p2_r1_col02.png",
+      "lang": "ja",
+      "conf": 0.4829,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 3,
+        "ja": 1
+      },
+      "text": "#\n\"\n常\nI"
+    },
+    {
+      "region": "p2_r1",
+      "order": 3,
+      "file": "p2_r1_col03.png",
+      "lang": "ja",
+      "conf": 0.5549,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 1,
+        "ja": 3
+      },
+      "text": "\"\n大一\n*\n早"
+    },
+    {
+      "region": "p2_r1",
+      "order": 4,
+      "file": "p2_r1_col04.png",
+      "lang": "ko",
+      "conf": 0.4568,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "# \n정수"
+    },
+    {
+      "region": "p2_r1",
+      "order": 5,
+      "file": "p2_r1_col05.png",
+      "lang": "ko",
+      "conf": 0.5079,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 4,
+        "ja": 3
+      },
+      "text": "#\nア\n:\n1\n안\n3\n주"
+    },
+    {
+      "region": "p2_r1",
+      "order": 6,
+      "file": "p2_r1_col06.png",
+      "lang": "ko",
+      "conf": 0.7509,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "공\n;\n주"
+    },
+    {
+      "region": "p2_r1",
+      "order": 7,
+      "file": "p2_r1_col07.png",
+      "lang": "ko",
+      "conf": 0.5577,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 3,
+        "ja": 2
+      },
+      "text": "江\nそ\n상 \"\n1\n경"
+    },
+    {
+      "region": "p2_r1",
+      "order": 8,
+      "file": "p2_r1_col08.png",
+      "lang": "ko",
+      "conf": 0.4483,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 3,
+        "ja": 1
+      },
+      "text": "소:\n1\n전\n#;"
+    },
+    {
+      "region": "p2_r1",
+      "order": 9,
+      "file": "p2_r1_col09.png",
+      "lang": "ko",
+      "conf": 0.4408,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 5,
+        "ja": 0
+      },
+      "text": "jh\n0\n날\n}\n'"
+    },
+    {
+      "region": "p2_r1",
+      "order": 10,
+      "file": "p2_r1_col10.png",
+      "lang": "ko",
+      "conf": 0.5896,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "굉\n不\n}"
+    },
+    {
+      "region": "p2_r1",
+      "order": 11,
+      "file": "p2_r1_col11.png",
+      "lang": "ko",
+      "conf": 0.3632,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "꽃\n;"
+    },
+    {
+      "region": "p2_r1",
+      "order": 12,
+      "file": "p2_r1_col12.png",
+      "lang": "unknown",
+      "conf": 0.0976,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "\"\ns"
+    },
+    {
+      "region": "p2_r2",
+      "order": 1,
+      "file": "p2_r2_col01.png",
+      "lang": "ko",
+      "conf": 0.5086,
+      "n_boxes": 31,
+      "by_lang": {
+        "ko": 23,
+        "ja": 8
+      },
+      "text": "#; #; #? #?\n4\n크\n청률   상>\n충\n경\nき\n국\nシ\n도\n주;\n주출\n주;\n주\n1\nり\nり\n曇\n多\n쇼\n1\n경\n경보\n청\n회\n춤\n;\n'\n喜?\n진_ 성;\n령"
+    },
+    {
+      "region": "p2_r2",
+      "order": 2,
+      "file": "p2_r2_col02.png",
+      "lang": "ko",
+      "conf": 0.5095,
+      "n_boxes": 35,
+      "by_lang": {
+        "ko": 28,
+        "ja": 7
+      },
+      "text": "#? #? 표\n{\n급\n#\nj\n강 ';\n단\n; 볼\n경;\n눈\n북 ;\n1\n3\n동\n능\n천\n청\n2\nグ\n#? 싶\n#수 #;\n속\n소\n푹:\n!\n초\n吾\n子\n물\n#\nけェ\n5\n감\n1\n4"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "source": "1912_신선정칙일선회화_p116-117.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "unknown",
+      "conf": 0.9936,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "116"
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 1,
+      "file": "p1_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 2,
+      "file": "p1_r2_col02.png",
+      "lang": "ja",
+      "conf": 0.4434,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 4,
+        "ja": 5
+      },
+      "text": "'\n9\n1\nか\ni\n9\n{\n;\n3"
+    },
+    {
+      "region": "p1_r2",
+      "order": 3,
+      "file": "p1_r2_col03.png",
+      "lang": "ko",
+      "conf": 0.6032,
+      "n_boxes": 20,
+      "by_lang": {
+        "ko": 16,
+        "ja": 4
+      },
+      "text": "(=)\n'\nサ\nや\n주\n5\n그\n9\n{\n*\n*\n9\n}\nカ\n1\n그\nt\n조\n군\n당:"
+    },
+    {
+      "region": "p1_r2",
+      "order": 4,
+      "file": "p1_r2_col04.png",
+      "lang": "unknown",
+      "conf": 0.4253,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 5,
+        "ja": 0
+      },
+      "text": "'\n;\n#\n'\n>"
+    },
+    {
+      "region": "p1_r2",
+      "order": 5,
+      "file": "p1_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.4357,
+      "n_boxes": 23,
+      "by_lang": {
+        "ko": 15,
+        "ja": 8
+      },
+      "text": "(三)\n'\n》\n숫\n学\n1\n#\n죽\nク\n호\n1\n\"\n;\n\"\n;\n1\n4\n7\n#\n9\n。\ns\n3"
+    },
+    {
+      "region": "p1_r2",
+      "order": 6,
+      "file": "p1_r2_col06.png",
+      "lang": "ja",
+      "conf": 0.5278,
+      "n_boxes": 13,
+      "by_lang": {
+        "ko": 7,
+        "ja": 6
+      },
+      "text": "'\n3\nと\nJ\n{\n多\n*\n*\nサ\n;\n今\n#\nす"
+    },
+    {
+      "region": "p1_r2",
+      "order": 7,
+      "file": "p1_r2_col07.png",
+      "lang": "ja",
+      "conf": 0.5821,
+      "n_boxes": 13,
+      "by_lang": {
+        "ko": 7,
+        "ja": 6
+      },
+      "text": "(宣)\n!\n;\nゴ\n|\n;\n?\n\"\n그\n;\n寸\n3\n9"
+    },
+    {
+      "region": "p1_r2",
+      "order": 8,
+      "file": "p1_r2_col08.png",
+      "lang": "ko",
+      "conf": 0.5865,
+      "n_boxes": 14,
+      "by_lang": {
+        "ko": 8,
+        "ja": 6
+      },
+      "text": "(표'\nザ\n{\n文\n4\nラ\nト\n국\n그\n;\n手\nP\n5\n#"
+    },
+    {
+      "region": "p1_r2",
+      "order": 9,
+      "file": "p1_r2_col09.png",
+      "lang": "ja",
+      "conf": 0.448,
+      "n_boxes": 13,
+      "by_lang": {
+        "ko": 6,
+        "ja": 7
+      },
+      "text": "{\n}\nJ\nか\n꿀\nッ\n多\n{\nえ\n‥\nナ\n?\n크"
+    },
+    {
+      "region": "p2_r1",
+      "order": 1,
+      "file": "p2_r1_col01.png",
+      "lang": "ko",
+      "conf": 0.4699,
+      "n_boxes": 13,
+      "by_lang": {
+        "ko": 6,
+        "ja": 7
+      },
+      "text": "{\n3\n셋\n5\n{\n'\n!\n군\n5\n才\n文\n\"\n';"
+    },
+    {
+      "region": "p2_r1",
+      "order": 2,
+      "file": "p2_r1_col02.png",
+      "lang": "ja",
+      "conf": 0.579,
+      "n_boxes": 12,
+      "by_lang": {
+        "ko": 4,
+        "ja": 8
+      },
+      "text": "日一\nう\n[\nX\n1\nノ\nこ\nプ\n주\n!\n그\nヨ"
+    },
+    {
+      "region": "p2_r1",
+      "order": 3,
+      "file": "p2_r1_col03.png",
+      "lang": "unknown",
+      "conf": 0.8708,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "'"
+    },
+    {
+      "region": "p2_r1",
+      "order": 4,
+      "file": "p2_r1_col04.png",
+      "lang": "ko",
+      "conf": 0.4518,
+      "n_boxes": 13,
+      "by_lang": {
+        "ko": 10,
+        "ja": 3
+      },
+      "text": "!\n쫓\n코\n才\n술\n}\n스\n>\n{\n口\n쇼\n#\n크"
+    },
+    {
+      "region": "p2_r1",
+      "order": 5,
+      "file": "p2_r1_col05.png",
+      "lang": "ko",
+      "conf": 0.5549,
+      "n_boxes": 10,
+      "by_lang": {
+        "ko": 5,
+        "ja": 5
+      },
+      "text": "毛)\n中\nチ\nハ\n;\n조\nラ\n쇼소\n주\n="
+    },
+    {
+      "region": "p2_r1",
+      "order": 6,
+      "file": "p2_r1_col06.png",
+      "lang": "ko",
+      "conf": 0.5379,
+      "n_boxes": 15,
+      "by_lang": {
+        "ko": 11,
+        "ja": 4
+      },
+      "text": "元)\n'\n#\n三\n모\n'\n{\n#\n조\n#\n\"'\n'\nガ\n4\n>"
+    },
+    {
+      "region": "p2_r1",
+      "order": 7,
+      "file": "p2_r1_col07.png",
+      "lang": "ko",
+      "conf": 0.4811,
+      "n_boxes": 15,
+      "by_lang": {
+        "ko": 10,
+        "ja": 5
+      },
+      "text": "Ii7\n'\n与\n1\nヨ\n3\n표\n오구\n1\ni\n'\n?\n>\n;\n?"
+    },
+    {
+      "region": "p2_r1",
+      "order": 8,
+      "file": "p2_r1_col08.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    }
+  ]
+}

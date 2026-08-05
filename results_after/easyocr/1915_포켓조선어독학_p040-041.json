@@ -1,0 +1,226 @@
+{
+  "source": "1915_포켓조선어독학_p040-041.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "ko",
+      "conf": 0.5015,
+      "n_boxes": 21,
+      "by_lang": {
+        "ko": 14,
+        "ja": 7
+      },
+      "text": "40\n손\"\n#가구\n락?\n속\n手\n2\nち\n벼\n合z\n히\n李\n腰\n'1\n1\n#복\n쇼\nき\n물\n교\n\""
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "ko",
+      "conf": 0.4636,
+      "n_boxes": 21,
+      "by_lang": {
+        "ko": 14,
+        "ja": 7
+      },
+      "text": "리\n足=\n身岳玉\nm살 #\n#숨조\n豊\nち\nX\n조\n'\n쇼\n뭐\n솜\n3\n2,\n표시?\n표춤 {\n+\n夢名?\n\"속\n\""
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "ko",
+      "conf": 0.5529,
+      "n_boxes": 28,
+      "by_lang": {
+        "ko": 17,
+        "ja": 11
+      },
+      "text": "쇼기\n교운\nウ\n#정\nヨ\n교신\n맘:\n心\n모\n$\nセ\n1\n'\n#소\n:\n작:\n7\n+\nキ\n{활:\n)\n1?\nビ\nシ\n5\n수\n춤\nも"
+    },
+    {
+      "region": "p1_r1",
+      "order": 5,
+      "file": "p1_r1_col05.png",
+      "lang": "ko",
+      "conf": 0.579,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "朝\n팀\n월"
+    },
+    {
+      "region": "p1_r1",
+      "order": 6,
+      "file": "p1_r1_col06.png",
+      "lang": "ja",
+      "conf": 0.6628,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 0,
+        "ja": 3
+      },
+      "text": "#\nど\n身"
+    },
+    {
+      "region": "p1_r1",
+      "order": 7,
+      "file": "p1_r1_col07.png",
+      "lang": "ja",
+      "conf": 0.2085,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 0,
+        "ja": 2
+      },
+      "text": "禰\n族一"
+    },
+    {
+      "region": "p1_r1",
+      "order": 8,
+      "file": "p1_r1_col08.png",
+      "lang": "ko",
+      "conf": 0.4867,
+      "n_boxes": 26,
+      "by_lang": {
+        "ko": 17,
+        "ja": 9
+      },
+      "text": "당\n一\n신\n품\n多\n쏟\n公\n좌내}\n\"육?\n7\n#너?\n자;\n)\n文\n살\n人一\n#\n?\n#\n#\n男\nす\n?\n#\n꾸\nF"
+    },
+    {
+      "region": "p1_r1",
+      "order": 9,
+      "file": "p1_r1_col09.png",
+      "lang": "ja",
+      "conf": 0.5567,
+      "n_boxes": 11,
+      "by_lang": {
+        "ko": 6,
+        "ja": 5
+      },
+      "text": "군\n4\n(\n#\n手\n>\nチ\nJ\n5\nチ\n‥"
+    },
+    {
+      "region": "p2_r2",
+      "order": 1,
+      "file": "p2_r2_col01.png",
+      "lang": "ko",
+      "conf": 0.4486,
+      "n_boxes": 16,
+      "by_lang": {
+        "ko": 15,
+        "ja": 1
+      },
+      "text": "아}\n父\n비\n표어히\n미;\n소하;\n라;\n'비\n#할\n\"미\n국아;\n#자;\n꿀\nn\n쇼\n'후"
+    },
+    {
+      "region": "p2_r2",
+      "order": 2,
+      "file": "p2_r2_col02.png",
+      "lang": "ko",
+      "conf": 0.5744,
+      "n_boxes": 18,
+      "by_lang": {
+        "ko": 10,
+        "ja": 8
+      },
+      "text": "신;\n7자주\n#손'\n형\n兄\n弟\n#안\n'_\n;\n兄\n伯\n#\n$\n弟\n눕\n못\n#\nう"
+    },
+    {
+      "region": "p2_r2",
+      "order": 3,
+      "file": "p2_r2_col03.png",
+      "lang": "ko",
+      "conf": 0.4073,
+      "n_boxes": 18,
+      "by_lang": {
+        "ko": 11,
+        "ja": 7
+      },
+      "text": "위\n1\n妹\n?\n교숨:\n#모\n쪽\n;\n暢\n하\n종;\nA 설;\n#\n7\nど\n;\n1\n+"
+    },
+    {
+      "region": "p2_r2",
+      "order": 4,
+      "file": "p2_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.4751,
+      "n_boxes": 20,
+      "by_lang": {
+        "ko": 12,
+        "ja": 8
+      },
+      "text": "전\nう\nす\n#면\nX\n리 \"\n묘사\nサ\n뜻;\n숲\n7\nダ\n$\n출\n同\ni\n儀\n'\nモ\n*표?"
+    },
+    {
+      "region": "p2_r2",
+      "order": 5,
+      "file": "p2_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.5208,
+      "n_boxes": 23,
+      "by_lang": {
+        "ko": 10,
+        "ja": 13
+      },
+      "text": "품\n주하;\n男別1\n親\n類\n#\n북제주\n喜\n꿀\n若一\nス\nひ\n人\n초\n*\n~\n*\n老\n~\n4\n人\nう\n손종?"
+    },
+    {
+      "region": "p2_r2",
+      "order": 6,
+      "file": "p2_r2_col06.png",
+      "lang": "ko",
+      "conf": 0.6706,
+      "n_boxes": 28,
+      "by_lang": {
+        "ko": 17,
+        "ja": 11
+      },
+      "text": "#이\n1\n화놈=\n값저\n?\n 놈\n#그?\n奴舌二\n#\n富半\n者\n;\n富\n';\nナ\n^람?\np\n꿀\n+\n';\n표\nサ\nえ\n人\n;\n同\n'サ\n초"
+    },
+    {
+      "region": "p2_r2",
+      "order": 7,
+      "file": "p2_r2_col07.png",
+      "lang": "ja",
+      "conf": 0.6465,
+      "n_boxes": 32,
+      "by_lang": {
+        "ko": 13,
+        "ja": 19
+      },
+      "text": "41\n優叶t\n#\nデ\n*\nサ\n人\n초\n?\nサ\n초\n{\n壬\n#\n'サ\n人\n;\nサ\nう\n민\n;\n舞\n捷\n';\nナ\n人\n람\nう\n하;\n;\n州\nう"
+    },
+    {
+      "region": "p2_r2",
+      "order": 8,
+      "file": "p2_r2_col08.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    }
+  ]
+}

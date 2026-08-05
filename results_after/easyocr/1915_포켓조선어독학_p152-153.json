@@ -1,0 +1,525 @@
+{
+  "source": "1915_포켓조선어독학_p152-153.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "ko",
+      "conf": 0.3267,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "0\n꿀"
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "ja",
+      "conf": 0.2491,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "イト"
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "ko",
+      "conf": 0.5991,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "下\n표점\n심"
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 5,
+      "file": "p1_r1_col05.png",
+      "lang": "ko",
+      "conf": 0.2527,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "# 씨\n'"
+    },
+    {
+      "region": "p1_r1",
+      "order": 6,
+      "file": "p1_r1_col06.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 7,
+      "file": "p1_r1_col07.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 8,
+      "file": "p1_r1_col08.png",
+      "lang": "unknown",
+      "conf": 0.9979,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "'"
+    },
+    {
+      "region": "p1_r1",
+      "order": 9,
+      "file": "p1_r1_col09.png",
+      "lang": "unknown",
+      "conf": 0.1353,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": ";\n9"
+    },
+    {
+      "region": "p1_r2",
+      "order": 1,
+      "file": "p1_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 2,
+      "file": "p1_r2_col02.png",
+      "lang": "ko",
+      "conf": 0.5915,
+      "n_boxes": 10,
+      "by_lang": {
+        "ko": 7,
+        "ja": 3
+      },
+      "text": "예고\nさ\n체여;\n7\n'\n=\n\"\nナ\n퇴}\n지오*"
+    },
+    {
+      "region": "p1_r2",
+      "order": 3,
+      "file": "p1_r2_col03.png",
+      "lang": "ko",
+      "conf": 0.5479,
+      "n_boxes": 10,
+      "by_lang": {
+        "ko": 5,
+        "ja": 5
+      },
+      "text": "죄한\n;\n}\ni\nカ\nナ\n)\n기보\n引\n才"
+    },
+    {
+      "region": "p1_r2",
+      "order": 4,
+      "file": "p1_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.6829,
+      "n_boxes": 10,
+      "by_lang": {
+        "ko": 7,
+        "ja": 3
+      },
+      "text": "오\nハ\n\"업\n주\n1\n그\n\"\nt\n시;\n오"
+    },
+    {
+      "region": "p1_r2",
+      "order": 5,
+      "file": "p1_r2_col05.png",
+      "lang": "ja",
+      "conf": 0.9223,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "1\n才"
+    },
+    {
+      "region": "p1_r2",
+      "order": 6,
+      "file": "p1_r2_col06.png",
+      "lang": "ko",
+      "conf": 0.6263,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 4,
+        "ja": 2
+      },
+      "text": "#오\n교리\n공\n洞\nデ\n지오"
+    },
+    {
+      "region": "p1_r2",
+      "order": 7,
+      "file": "p1_r2_col07.png",
+      "lang": "ja",
+      "conf": 0.3871,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 2,
+        "ja": 7
+      },
+      "text": "##\n1\n柳\n규\n洞\nギ\n雛\n糞\nヨ"
+    },
+    {
+      "region": "p1_r2",
+      "order": 8,
+      "file": "p1_r2_col08.png",
+      "lang": "ko",
+      "conf": 0.8483,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "주\n1}"
+    },
+    {
+      "region": "p2_r2",
+      "order": 1,
+      "file": "p2_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r2",
+      "order": 2,
+      "file": "p2_r2_col02.png",
+      "lang": "ja",
+      "conf": 0.1399,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "話"
+    },
+    {
+      "region": "p2_r2",
+      "order": 3,
+      "file": "p2_r2_col03.png",
+      "lang": "unknown",
+      "conf": 0.9339,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "158"
+    },
+    {
+      "region": "p2_r2",
+      "order": 4,
+      "file": "p2_r2_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r3",
+      "order": 1,
+      "file": "p2_r3_col01.png",
+      "lang": "ko",
+      "conf": 0.6754,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "쇼"
+    },
+    {
+      "region": "p2_r3",
+      "order": 2,
+      "file": "p2_r3_col02.png",
+      "lang": "ko",
+      "conf": 0.6019,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 3,
+        "ja": 1
+      },
+      "text": "섞절\n흙\nカ\n1"
+    },
+    {
+      "region": "p2_r3",
+      "order": 3,
+      "file": "p2_r3_col03.png",
+      "lang": "unknown",
+      "conf": 0.2836,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "t\n{"
+    },
+    {
+      "region": "p2_r3",
+      "order": 4,
+      "file": "p2_r3_col04.png",
+      "lang": "ko",
+      "conf": 0.3461,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "얼\n마마"
+    },
+    {
+      "region": "p2_r3",
+      "order": 5,
+      "file": "p2_r3_col05.png",
+      "lang": "unknown",
+      "conf": 0.3314,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "4\n7"
+    },
+    {
+      "region": "p2_r3",
+      "order": 6,
+      "file": "p2_r3_col06.png",
+      "lang": "ko",
+      "conf": 0.2336,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "앞"
+    },
+    {
+      "region": "p2_r3",
+      "order": 7,
+      "file": "p2_r3_col07.png",
+      "lang": "unknown",
+      "conf": 0.986,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "#"
+    },
+    {
+      "region": "p2_r3",
+      "order": 8,
+      "file": "p2_r3_col08.png",
+      "lang": "ko",
+      "conf": 0.8708,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "0\n다"
+    },
+    {
+      "region": "p2_r3",
+      "order": 9,
+      "file": "p2_r3_col09.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r3",
+      "order": 10,
+      "file": "p2_r3_col10.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r3",
+      "order": 11,
+      "file": "p2_r3_col11.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r4",
+      "order": 1,
+      "file": "p2_r4_col01.png",
+      "lang": "ko",
+      "conf": 0.4159,
+      "n_boxes": 12,
+      "by_lang": {
+        "ko": 10,
+        "ja": 2
+      },
+      "text": "피요\n군\n明\n#\n1\n)\n미히;\n7\n#롬?\nり\n%\n';"
+    },
+    {
+      "region": "p2_r4",
+      "order": 2,
+      "file": "p2_r4_col02.png",
+      "lang": "ko",
+      "conf": 0.4668,
+      "n_boxes": 17,
+      "by_lang": {
+        "ko": 14,
+        "ja": 3
+      },
+      "text": "밭\n씨\n꿀\n쪽\n代\n중\n>\n학\n\"\n#\n5\n=\n옆\nほ\n;\n쥐\n크"
+    },
+    {
+      "region": "p2_r4",
+      "order": 3,
+      "file": "p2_r4_col03.png",
+      "lang": "ko",
+      "conf": 0.6096,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 5,
+        "ja": 2
+      },
+      "text": "흙\n시\n+\n5\nデ'\n지오=\nす"
+    },
+    {
+      "region": "p2_r4",
+      "order": 4,
+      "file": "p2_r4_col04.png",
+      "lang": "ko",
+      "conf": 0.5921,
+      "n_boxes": 20,
+      "by_lang": {
+        "ko": 8,
+        "ja": 12
+      },
+      "text": "(하\n시나+\n=\n#\n1\nバ\n'\n7\n'\n넓\nユ}\n'\nタ\n1\nカ\nギ\n=|\n#값:\n소\n一'"
+    },
+    {
+      "region": "p2_r4",
+      "order": 5,
+      "file": "p2_r4_col05.png",
+      "lang": "ko",
+      "conf": 0.4017,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 3,
+        "ja": 4
+      },
+      "text": "최가 \nヶト\n{ト\n\"\n属\n5\n3"
+    },
+    {
+      "region": "p2_r4",
+      "order": 6,
+      "file": "p2_r4_col06.png",
+      "lang": "ko",
+      "conf": 0.5434,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 4,
+        "ja": 3
+      },
+      "text": "치네\n\"복\n有ト\n3\n조\n)\nマ"
+    },
+    {
+      "region": "p2_r4",
+      "order": 7,
+      "file": "p2_r4_col07.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r4",
+      "order": 8,
+      "file": "p2_r4_col08.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    }
+  ]
+}

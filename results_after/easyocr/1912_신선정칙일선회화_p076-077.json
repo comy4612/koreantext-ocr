@@ -1,0 +1,408 @@
+{
+  "source": "1912_신선정칙일선회화_p076-077.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "unknown",
+      "conf": 0.9982,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "76"
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 5,
+      "file": "p1_r1_col05.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 6,
+      "file": "p1_r1_col06.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 7,
+      "file": "p1_r1_col07.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 8,
+      "file": "p1_r1_col08.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 9,
+      "file": "p1_r1_col09.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 1,
+      "file": "p1_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 2,
+      "file": "p1_r2_col02.png",
+      "lang": "ko",
+      "conf": 0.2519,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 3,
+        "ja": 2
+      },
+      "text": "皮る\n갖?\n乳孝\n젓축\n#s"
+    },
+    {
+      "region": "p1_r2",
+      "order": 3,
+      "file": "p1_r2_col03.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 4,
+      "file": "p1_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.7416,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "股\n숫"
+    },
+    {
+      "region": "p1_r2",
+      "order": 5,
+      "file": "p1_r2_col05.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 6,
+      "file": "p1_r2_col06.png",
+      "lang": "ja",
+      "conf": 0.9957,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "家"
+    },
+    {
+      "region": "p1_r2",
+      "order": 7,
+      "file": "p1_r2_col07.png",
+      "lang": "ja",
+      "conf": 0.2036,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 5,
+        "ja": 2
+      },
+      "text": "父孝\nJ\nも\n5\n*\n#\"\n보?"
+    },
+    {
+      "region": "p1_r2",
+      "order": 8,
+      "file": "p1_r2_col08.png",
+      "lang": "ko",
+      "conf": 0.4203,
+      "n_boxes": 11,
+      "by_lang": {
+        "ko": 7,
+        "ja": 4
+      },
+      "text": "愛\n7\n쭉국\n>\n표\n手\n주\n意\n숫\n그\n적}"
+    },
+    {
+      "region": "p1_r2",
+      "order": 9,
+      "file": "p1_r2_col09.png",
+      "lang": "ko",
+      "conf": 0.3144,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 3,
+        "ja": 5
+      },
+      "text": "旨\n孫\n'\n솟\n手\n兄こ\n협률\nム"
+    },
+    {
+      "region": "p1_r2",
+      "order": 10,
+      "file": "p1_r2_col10.png",
+      "lang": "ko",
+      "conf": 0.566,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 4,
+        "ja": 4
+      },
+      "text": "부?\n#?\n눕\n予\nえ\n#\n予\n#"
+    },
+    {
+      "region": "p1_r2",
+      "order": 11,
+      "file": "p1_r2_col11.png",
+      "lang": "ko",
+      "conf": 0.3209,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 3,
+        "ja": 3
+      },
+      "text": "愛一\n살?\n#\n숲주\n鷺\n※三"
+    },
+    {
+      "region": "p1_r2",
+      "order": 12,
+      "file": "p1_r2_col12.png",
+      "lang": "ko",
+      "conf": 0.4529,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 5,
+        "ja": 2
+      },
+      "text": "뼈규\n7\n종?\n#표;\n妻\n양\n子"
+    },
+    {
+      "region": "p2_r1",
+      "order": 1,
+      "file": "p2_r1_col01.png",
+      "lang": "ko",
+      "conf": 0.3332,
+      "n_boxes": 10,
+      "by_lang": {
+        "ko": 6,
+        "ja": 4
+      },
+      "text": "糞\n#\n#*로\n3\n면:\n개\n\"\n회\n1\n3"
+    },
+    {
+      "region": "p2_r1",
+      "order": 2,
+      "file": "p2_r1_col02.png",
+      "lang": "ko",
+      "conf": 0.5915,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 7,
+        "ja": 1
+      },
+      "text": "娘\n#:\n#\n#\n턱R\n부\n주\n군"
+    },
+    {
+      "region": "p2_r1",
+      "order": 3,
+      "file": "p2_r1_col03.png",
+      "lang": "ko",
+      "conf": 0.4247,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 4,
+        "ja": 4
+      },
+      "text": "#:3\n大\n2\n夫\n넓\n鼻\n曇\n들"
+    },
+    {
+      "region": "p2_r1",
+      "order": 4,
+      "file": "p2_r1_col04.png",
+      "lang": "ko",
+      "conf": 0.5066,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 4,
+        "ja": 2
+      },
+      "text": "초\n}\n早\nウ\n#\n구"
+    },
+    {
+      "region": "p2_r1",
+      "order": 5,
+      "file": "p2_r1_col05.png",
+      "lang": "ja",
+      "conf": 0.5792,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 0,
+        "ja": 2
+      },
+      "text": "三)\n業"
+    },
+    {
+      "region": "p2_r1",
+      "order": 6,
+      "file": "p2_r1_col06.png",
+      "lang": "ko",
+      "conf": 0.286,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 5,
+        "ja": 4
+      },
+      "text": "5\n今\n협?\n>\n栗\n弓\n속;\n露\n삼:"
+    },
+    {
+      "region": "p2_r1",
+      "order": 7,
+      "file": "p2_r1_col07.png",
+      "lang": "ko",
+      "conf": 0.4199,
+      "n_boxes": 11,
+      "by_lang": {
+        "ko": 8,
+        "ja": 3
+      },
+      "text": "그\n?\nも\n{\n3\n}\n약=\n방\n\"\n5\nス"
+    },
+    {
+      "region": "p2_r1",
+      "order": 8,
+      "file": "p2_r1_col08.png",
+      "lang": "ko",
+      "conf": 0.5576,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 7,
+        "ja": 2
+      },
+      "text": "サ\n<\nJ?\n~\n작?\n도\n4\n>\n1"
+    },
+    {
+      "region": "p2_r1",
+      "order": 9,
+      "file": "p2_r1_col09.png",
+      "lang": "ko",
+      "conf": 0.3467,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 7,
+        "ja": 0
+      },
+      "text": "1\n원?\n표:\n병;\n{지;\n>\n중중"
+    },
+    {
+      "region": "p2_r1",
+      "order": 10,
+      "file": "p2_r1_col10.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    }
+  ]
+}

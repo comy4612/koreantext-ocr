@@ -1,0 +1,395 @@
+{
+  "source": "1915_포켓조선어독학_p038-039.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.6753,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "38"
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 5,
+      "file": "p1_r1_col05.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 6,
+      "file": "p1_r1_col06.png",
+      "lang": "ja",
+      "conf": 0.9793,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "朝"
+    },
+    {
+      "region": "p1_r1",
+      "order": 7,
+      "file": "p1_r1_col07.png",
+      "lang": "ja",
+      "conf": 0.6345,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "鮮"
+    },
+    {
+      "region": "p1_r1",
+      "order": 8,
+      "file": "p1_r1_col08.png",
+      "lang": "ja",
+      "conf": 0.2517,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "崩"
+    },
+    {
+      "region": "p1_r1",
+      "order": 9,
+      "file": "p1_r1_col09.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 10,
+      "file": "p1_r1_col10.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 1,
+      "file": "p1_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 2,
+      "file": "p1_r2_col02.png",
+      "lang": "ja",
+      "conf": 0.7985,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 1,
+        "ja": 2
+      },
+      "text": "{\n時\n期"
+    },
+    {
+      "region": "p1_r2",
+      "order": 3,
+      "file": "p1_r2_col03.png",
+      "lang": "ko",
+      "conf": 0.5369,
+      "n_boxes": 16,
+      "by_lang": {
+        "ko": 10,
+        "ja": 6
+      },
+      "text": "'옛\n1\n꿀\n1\n#%\nu근\n*리\n此り\n先\n축\n頃\nl\n同\n#월\n#\n#새"
+    },
+    {
+      "region": "p1_r2",
+      "order": 4,
+      "file": "p1_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.4428,
+      "n_boxes": 10,
+      "by_lang": {
+        "ko": 4,
+        "ja": 6
+      },
+      "text": "何叶\n一\n同\n\"_\n三\n#전기\n곁\n同\n刻フ}\n참잠"
+    },
+    {
+      "region": "p1_r2",
+      "order": 5,
+      "file": "p1_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.3949,
+      "n_boxes": 12,
+      "by_lang": {
+        "ko": 9,
+        "ja": 3
+      },
+      "text": "색문\no}y\n[핵침!\n&밤\n#\n낮\n4\n後一\n}\n접\n夕\n#"
+    },
+    {
+      "region": "p1_r2",
+      "order": 6,
+      "file": "p1_r2_col06.png",
+      "lang": "ko",
+      "conf": 0.5121,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 6,
+        "ja": 3
+      },
+      "text": "\"올'\n晩\n매니\n日\n#어구\nF제\n꿀\n同\n#적"
+    },
+    {
+      "region": "p1_r2",
+      "order": 7,
+      "file": "p1_r2_col07.png",
+      "lang": "ko",
+      "conf": 0.4868,
+      "n_boxes": 17,
+      "by_lang": {
+        "ko": 9,
+        "ja": 8
+      },
+      "text": "핑게\n울\n\"올\n표\nす\nF\nナ\nす\n同\n눕\n1\n近\n同\n~하\n日\n합\n衣"
+    },
+    {
+      "region": "p2_r1",
+      "order": 1,
+      "file": "p2_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r2",
+      "order": 1,
+      "file": "p2_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r2",
+      "order": 2,
+      "file": "p2_r2_col02.png",
+      "lang": "ko",
+      "conf": 0.0642,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "꼼"
+    },
+    {
+      "region": "p2_r2",
+      "order": 3,
+      "file": "p2_r2_col03.png",
+      "lang": "unknown",
+      "conf": 0.9775,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "89"
+    },
+    {
+      "region": "p2_r2",
+      "order": 4,
+      "file": "p2_r2_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r3",
+      "order": 1,
+      "file": "p2_r3_col01.png",
+      "lang": "ja",
+      "conf": 0.6559,
+      "n_boxes": 14,
+      "by_lang": {
+        "ko": 3,
+        "ja": 11
+      },
+      "text": "光\n月\n同\n#\n去川\ns월\n此り'\n月是\n수금\n月\nm니\n豊\n月\n同"
+    },
+    {
+      "region": "p2_r3",
+      "order": 2,
+      "file": "p2_r3_col02.png",
+      "lang": "ko",
+      "conf": 0.5389,
+      "n_boxes": 14,
+      "by_lang": {
+        "ko": 9,
+        "ja": 5
+      },
+      "text": "뚜명\n日'\n#올\n-引\n#삼\n去川\n소년\n수금\n年は\n#명\n明\n#출\n국\n쥐"
+    },
+    {
+      "region": "p2_r3",
+      "order": 3,
+      "file": "p2_r3_col03.png",
+      "lang": "ko",
+      "conf": 0.3703,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 4,
+        "ja": 1
+      },
+      "text": "\"\n3\n#육\n環一\n속히"
+    },
+    {
+      "region": "p2_r3",
+      "order": 4,
+      "file": "p2_r3_col04.png",
+      "lang": "ko",
+      "conf": 0.7688,
+      "n_boxes": 12,
+      "by_lang": {
+        "ko": 8,
+        "ja": 4
+      },
+      "text": "#봄\nポ\nけ\n夏\n틈\n~フト一\n초\n올\n겨\n소\n춤\n올"
+    },
+    {
+      "region": "p2_r3",
+      "order": 5,
+      "file": "p2_r3_col05.png",
+      "lang": "ko",
+      "conf": 0.4429,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 1,
+        "ja": 2
+      },
+      "text": "쪽\n身\n麗"
+    },
+    {
+      "region": "p2_r3",
+      "order": 6,
+      "file": "p2_r3_col06.png",
+      "lang": "ko",
+      "conf": 0.4611,
+      "n_boxes": 15,
+      "by_lang": {
+        "ko": 8,
+        "ja": 7
+      },
+      "text": "뼈\n#\n19\n소\n額引一\n1\n마\n面:\n豊\n顔\n@눈\n둘\n涙\n눕\n骨"
+    },
+    {
+      "region": "p2_r3",
+      "order": 7,
+      "file": "p2_r3_col07.png",
+      "lang": "ko",
+      "conf": 0.4124,
+      "n_boxes": 13,
+      "by_lang": {
+        "ko": 10,
+        "ja": 3
+      },
+      "text": "북코\n미입\n월\n歯り\n잡세\n*숨\n퍽목\n억\n肩\n세\n또손\n솜\n爪'"
+    },
+    {
+      "region": "p2_r3",
+      "order": 8,
+      "file": "p2_r3_col08.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    }
+  ]
+}

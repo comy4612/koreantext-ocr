@@ -1,0 +1,304 @@
+{
+  "source": "1912_신선정칙일선회화_p112-113.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "unknown",
+      "conf": 0.9972,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "112"
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 5,
+      "file": "p1_r1_col05.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 1,
+      "file": "p1_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 2,
+      "file": "p1_r2_col02.png",
+      "lang": "ko",
+      "conf": 0.3714,
+      "n_boxes": 15,
+      "by_lang": {
+        "ko": 11,
+        "ja": 4
+      },
+      "text": "(=)\n!\n'\n;\n#\n중\n;\n천\nj\n|\nヲ\n\"\n소\n물\n;"
+    },
+    {
+      "region": "p1_r2",
+      "order": 3,
+      "file": "p1_r2_col03.png",
+      "lang": "ja",
+      "conf": 0.5812,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 5,
+        "ja": 4
+      },
+      "text": "#\nポ\n{\nn\nコ\n;\n*\n;\nヨ"
+    },
+    {
+      "region": "p1_r2",
+      "order": 4,
+      "file": "p1_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.6574,
+      "n_boxes": 16,
+      "by_lang": {
+        "ko": 6,
+        "ja": 10
+      },
+      "text": "(四)\n鷺\nど\n출\n{\n그\n#\n1\n?\n5\nグ\nロ\n\"\nコ\n1\n국"
+    },
+    {
+      "region": "p1_r2",
+      "order": 5,
+      "file": "p1_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.5639,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "{\n#\n크"
+    },
+    {
+      "region": "p1_r2",
+      "order": 6,
+      "file": "p1_r2_col06.png",
+      "lang": "ko",
+      "conf": 0.6391,
+      "n_boxes": 14,
+      "by_lang": {
+        "ko": 6,
+        "ja": 8
+      },
+      "text": "(표)\n三\n*\n)\n;\n1\nそ\n\"\n#\n1\nJ\n}\n;\n3"
+    },
+    {
+      "region": "p1_r2",
+      "order": 7,
+      "file": "p1_r2_col07.png",
+      "lang": "ko",
+      "conf": 0.5575,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "무\n'"
+    },
+    {
+      "region": "p1_r2",
+      "order": 8,
+      "file": "p1_r2_col08.png",
+      "lang": "ja",
+      "conf": 0.543,
+      "n_boxes": 15,
+      "by_lang": {
+        "ko": 8,
+        "ja": 7
+      },
+      "text": "(六)\n'\n;\n{\n';\n#\n#\n子\n'\nス\n;\nコ\n:\nr\n+"
+    },
+    {
+      "region": "p1_r2",
+      "order": 9,
+      "file": "p1_r2_col09.png",
+      "lang": "ja",
+      "conf": 0.5265,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 5,
+        "ja": 3
+      },
+      "text": "'\n'\nオ\n'\n\":\n7\n2\n="
+    },
+    {
+      "region": "p2_r1",
+      "order": 1,
+      "file": "p2_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.9032,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "J13"
+    },
+    {
+      "region": "p2_r2",
+      "order": 1,
+      "file": "p2_r2_col01.png",
+      "lang": "ko",
+      "conf": 0.5406,
+      "n_boxes": 15,
+      "by_lang": {
+        "ko": 10,
+        "ja": 5
+      },
+      "text": "\"\n'\nりi\n가\n*\n1\n3\n3\nス\nナ\n$\n\"\n}\nテ\n곳3"
+    },
+    {
+      "region": "p2_r2",
+      "order": 2,
+      "file": "p2_r2_col02.png",
+      "lang": "unknown",
+      "conf": 0.7232,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "\"\n?\n{"
+    },
+    {
+      "region": "p2_r2",
+      "order": 3,
+      "file": "p2_r2_col03.png",
+      "lang": "ko",
+      "conf": 0.6252,
+      "n_boxes": 17,
+      "by_lang": {
+        "ko": 10,
+        "ja": 7
+      },
+      "text": "(八\n똑\nハ\n#\n쫓\n의\n조\nす\nデ\n가\"\n1\n북\n子\nカ\n조\n当\n이구"
+    },
+    {
+      "region": "p2_r2",
+      "order": 4,
+      "file": "p2_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.4193,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 6,
+        "ja": 2
+      },
+      "text": "꿀\n{\n죽\n고\n아'\n니\n寸\nッ一"
+    },
+    {
+      "region": "p2_r2",
+      "order": 5,
+      "file": "p2_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.6138,
+      "n_boxes": 19,
+      "by_lang": {
+        "ko": 13,
+        "ja": 6
+      },
+      "text": "?\n'\n'\n3\nダ\n[\n1\n3\n그\n;\n‥\n초\n2\n5\nエ\n1\n多\n;\n\""
+    },
+    {
+      "region": "p2_r2",
+      "order": 6,
+      "file": "p2_r2_col06.png",
+      "lang": "ko",
+      "conf": 0.8369,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 4,
+        "ja": 2
+      },
+      "text": "#\n야\n{\nツ\n9\n>"
+    },
+    {
+      "region": "p2_r2",
+      "order": 7,
+      "file": "p2_r2_col07.png",
+      "lang": "ja",
+      "conf": 0.619,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 3,
+        "ja": 5
+      },
+      "text": "}\n#\n{\n'\nホ\n弓\nス\nす"
+    },
+    {
+      "region": "p2_r2",
+      "order": 8,
+      "file": "p2_r2_col08.png",
+      "lang": "ko",
+      "conf": 0.6566,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 6,
+        "ja": 1
+      },
+      "text": "!\n호\n이\n오\n조\n=\n다수"
+    }
+  ]
+}

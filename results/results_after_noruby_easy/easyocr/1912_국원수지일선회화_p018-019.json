@@ -1,0 +1,694 @@
+{
+  "source": "1912_국원수지일선회화_p018-019.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "ko",
+      "conf": 0.3306,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "품\n静"
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "ko",
+      "conf": 0.7445,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 1,
+        "ja": 2
+      },
+      "text": "第\n五\n꼴"
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "ko",
+      "conf": 0.5455,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "뼈\n吾"
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "ko",
+      "conf": 0.3521,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "\"\n월"
+    },
+    {
+      "region": "p1_r1",
+      "order": 5,
+      "file": "p1_r1_col05.png",
+      "lang": "ko",
+      "conf": 0.7159,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "뼈\n청\n국"
+    },
+    {
+      "region": "p1_r1",
+      "order": 6,
+      "file": "p1_r1_col06.png",
+      "lang": "ko",
+      "conf": 0.3594,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "[\n턱"
+    },
+    {
+      "region": "p1_r1",
+      "order": 7,
+      "file": "p1_r1_col07.png",
+      "lang": "unknown",
+      "conf": 0.0515,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "#\""
+    },
+    {
+      "region": "p1_r1",
+      "order": 8,
+      "file": "p1_r1_col08.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 9,
+      "file": "p1_r1_col09.png",
+      "lang": "ko",
+      "conf": 0.4647,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "북"
+    },
+    {
+      "region": "p1_r1",
+      "order": 10,
+      "file": "p1_r1_col10.png",
+      "lang": "ko",
+      "conf": 0.2046,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "(\n탁"
+    },
+    {
+      "region": "p1_r1",
+      "order": 11,
+      "file": "p1_r1_col11.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 12,
+      "file": "p1_r1_col12.png",
+      "lang": "ko",
+      "conf": 0.3472,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "낙"
+    },
+    {
+      "region": "p1_r2",
+      "order": 1,
+      "file": "p1_r2_col01.png",
+      "lang": "ja",
+      "conf": 0.9734,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 0,
+        "ja": 3
+      },
+      "text": "名\n交\n通"
+    },
+    {
+      "region": "p1_r2",
+      "order": 2,
+      "file": "p1_r2_col02.png",
+      "lang": "ko",
+      "conf": 0.5789,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 4,
+        "ja": 0
+      },
+      "text": "#\n고\n눈\n향"
+    },
+    {
+      "region": "p1_r2",
+      "order": 3,
+      "file": "p1_r2_col03.png",
+      "lang": "ko",
+      "conf": 0.9848,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "#\n타\n향"
+    },
+    {
+      "region": "p1_r2",
+      "order": 4,
+      "file": "p1_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.953,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "京\n경\n경"
+    },
+    {
+      "region": "p1_r2",
+      "order": 5,
+      "file": "p1_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.852,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "푹\n동\n경"
+    },
+    {
+      "region": "p1_r2",
+      "order": 6,
+      "file": "p1_r2_col06.png",
+      "lang": "ja",
+      "conf": 0.9189,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "都"
+    },
+    {
+      "region": "p1_r2",
+      "order": 7,
+      "file": "p1_r2_col07.png",
+      "lang": "ko",
+      "conf": 0.7168,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "몇:\n실"
+    },
+    {
+      "region": "p1_r2",
+      "order": 8,
+      "file": "p1_r2_col08.png",
+      "lang": "ko",
+      "conf": 0.2805,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "뿐"
+    },
+    {
+      "region": "p1_r2",
+      "order": 9,
+      "file": "p1_r2_col09.png",
+      "lang": "ko",
+      "conf": 0.2127,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "율"
+    },
+    {
+      "region": "p1_r2",
+      "order": 10,
+      "file": "p1_r2_col10.png",
+      "lang": "ko",
+      "conf": 0.6288,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "{-\n路\n숲"
+    },
+    {
+      "region": "p1_r3",
+      "order": 1,
+      "file": "p1_r3_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r3",
+      "order": 2,
+      "file": "p1_r3_col02.png",
+      "lang": "ko",
+      "conf": 0.9999,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "길"
+    },
+    {
+      "region": "p1_r3",
+      "order": 3,
+      "file": "p1_r3_col03.png",
+      "lang": "ko",
+      "conf": 0.1112,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "및\n尋"
+    },
+    {
+      "region": "p1_r3",
+      "order": 4,
+      "file": "p1_r3_col04.png",
+      "lang": "ko",
+      "conf": 0.0932,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "닭"
+    },
+    {
+      "region": "p1_r3",
+      "order": 5,
+      "file": "p1_r3_col05.png",
+      "lang": "ja",
+      "conf": 0.1556,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "港"
+    },
+    {
+      "region": "p1_r3",
+      "order": 6,
+      "file": "p1_r3_col06.png",
+      "lang": "ko",
+      "conf": 0.4181,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 4,
+        "ja": 3
+      },
+      "text": "居\nJ\n留\n地子弓場\n것? 젖\n거\n1"
+    },
+    {
+      "region": "p1_r3",
+      "order": 7,
+      "file": "p1_r3_col07.png",
+      "lang": "ko",
+      "conf": 0.9897,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "#\n다"
+    },
+    {
+      "region": "p1_r3",
+      "order": 8,
+      "file": "p1_r3_col08.png",
+      "lang": "ko",
+      "conf": 0.4513,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "喬\n품"
+    },
+    {
+      "region": "p1_r3",
+      "order": 9,
+      "file": "p1_r3_col09.png",
+      "lang": "ko",
+      "conf": 0.3845,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "##\n철"
+    },
+    {
+      "region": "p2_r1",
+      "order": 1,
+      "file": "p2_r1_col01.png",
+      "lang": "ko",
+      "conf": 0.8405,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "춤\n쇼"
+    },
+    {
+      "region": "p2_r1",
+      "order": 2,
+      "file": "p2_r1_col02.png",
+      "lang": "ja",
+      "conf": 0.6261,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 0,
+        "ja": 3
+      },
+      "text": "上\n橋\n喜"
+    },
+    {
+      "region": "p2_r1",
+      "order": 3,
+      "file": "p2_r1_col03.png",
+      "lang": "ko",
+      "conf": 0.3237,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "턱"
+    },
+    {
+      "region": "p2_r1",
+      "order": 4,
+      "file": "p2_r1_col04.png",
+      "lang": "ko",
+      "conf": 0.4448,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 5,
+        "ja": 0
+      },
+      "text": "E \nT부\n면\n거\n자 {"
+    },
+    {
+      "region": "p2_r1",
+      "order": 5,
+      "file": "p2_r1_col05.png",
+      "lang": "ko",
+      "conf": 0.2124,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "쇼"
+    },
+    {
+      "region": "p2_r1",
+      "order": 6,
+      "file": "p2_r1_col06.png",
+      "lang": "ko",
+      "conf": 0.9431,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "馬\n맛"
+    },
+    {
+      "region": "p2_r1",
+      "order": 7,
+      "file": "p2_r1_col07.png",
+      "lang": "ko",
+      "conf": 0.3623,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "집"
+    },
+    {
+      "region": "p2_r1",
+      "order": 8,
+      "file": "p2_r1_col08.png",
+      "lang": "ja",
+      "conf": 0.3043,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "浜\njI\n{"
+    },
+    {
+      "region": "p2_r1",
+      "order": 9,
+      "file": "p2_r1_col09.png",
+      "lang": "ko",
+      "conf": 0.9056,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "舟\n비"
+    },
+    {
+      "region": "p2_r1",
+      "order": 10,
+      "file": "p2_r1_col10.png",
+      "lang": "ko",
+      "conf": 0.4035,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 3,
+        "ja": 1
+      },
+      "text": "m\n船\n{\n춤"
+    },
+    {
+      "region": "p2_r1",
+      "order": 11,
+      "file": "p2_r1_col11.png",
+      "lang": "ko",
+      "conf": 0.3407,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 1,
+        "ja": 2
+      },
+      "text": "篤\n틈\n語"
+    },
+    {
+      "region": "p2_r2",
+      "order": 1,
+      "file": "p2_r2_col01.png",
+      "lang": "ko",
+      "conf": 0.33,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 1,
+        "ja": 2
+      },
+      "text": "표\n郡\n喜"
+    },
+    {
+      "region": "p2_r2",
+      "order": 2,
+      "file": "p2_r2_col02.png",
+      "lang": "ja",
+      "conf": 0.9392,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 0,
+        "ja": 2
+      },
+      "text": "村\n老"
+    },
+    {
+      "region": "p2_r2",
+      "order": 3,
+      "file": "p2_r2_col03.png",
+      "lang": "ko",
+      "conf": 0.8344,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "형\n담\n通"
+    },
+    {
+      "region": "p2_r2",
+      "order": 4,
+      "file": "p2_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.9996,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "후\n편\n표"
+    },
+    {
+      "region": "p2_r2",
+      "order": 5,
+      "file": "p2_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.2854,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 4,
+        "ja": 0
+      },
+      "text": "j틈\n'{\n$\n젊"
+    },
+    {
+      "region": "p2_r2",
+      "order": 6,
+      "file": "p2_r2_col06.png",
+      "lang": "ko",
+      "conf": 0.5097,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 2,
+        "ja": 1
+      },
+      "text": "#\n路\n푹"
+    },
+    {
+      "region": "p2_r2",
+      "order": 7,
+      "file": "p2_r2_col07.png",
+      "lang": "ja",
+      "conf": 0.4433,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 2,
+        "ja": 3
+      },
+      "text": "市\nACs\n鼻\n一\n활"
+    },
+    {
+      "region": "p2_r2",
+      "order": 8,
+      "file": "p2_r2_col08.png",
+      "lang": "ko",
+      "conf": 0.4504,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 4,
+        "ja": 2
+      },
+      "text": "#\n출\n旅\n크\n별\n引"
+    },
+    {
+      "region": "p2_r2",
+      "order": 9,
+      "file": "p2_r2_col09.png",
+      "lang": "ko",
+      "conf": 0.6923,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "늘\n뺨\n속"
+    },
+    {
+      "region": "p2_r2",
+      "order": 10,
+      "file": "p2_r2_col10.png",
+      "lang": "ko",
+      "conf": 0.3728,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "督\n솜"
+    },
+    {
+      "region": "p2_r2",
+      "order": 11,
+      "file": "p2_r2_col11.png",
+      "lang": "ja",
+      "conf": 0.7198,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "元"
+    }
+  ]
+}

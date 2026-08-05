@@ -1,0 +1,551 @@
+{
+  "source": "1915_포켓조선어독학_p156-157.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 1,
+      "file": "p1_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 2,
+      "file": "p1_r2_col02.png",
+      "lang": "ja",
+      "conf": 0.915,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 3,
+        "ja": 1
+      },
+      "text": "156\n5\n高\n#"
+    },
+    {
+      "region": "p1_r2",
+      "order": 3,
+      "file": "p1_r2_col03.png",
+      "lang": "ko",
+      "conf": 0.4978,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 4,
+        "ja": 3
+      },
+      "text": "#마;\n'흙\n才\n춤\n1\nデ\n지오+"
+    },
+    {
+      "region": "p1_r2",
+      "order": 4,
+      "file": "p1_r2_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 5,
+      "file": "p1_r2_col05.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 6,
+      "file": "p1_r2_col06.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 7,
+      "file": "p1_r2_col07.png",
+      "lang": "ja",
+      "conf": 0.7988,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "朝_"
+    },
+    {
+      "region": "p1_r2",
+      "order": 8,
+      "file": "p1_r2_col08.png",
+      "lang": "ko",
+      "conf": 0.0772,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "가끔 # 씨\n'"
+    },
+    {
+      "region": "p1_r2",
+      "order": 9,
+      "file": "p1_r2_col09.png",
+      "lang": "ko",
+      "conf": 0.7221,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 2,
+        "ja": 5
+      },
+      "text": "국\n蒸\n1\nシ\nマ\nス\n#오*"
+    },
+    {
+      "region": "p1_r2",
+      "order": 10,
+      "file": "p1_r2_col10.png",
+      "lang": "ko",
+      "conf": 0.4553,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 5,
+        "ja": 2
+      },
+      "text": "뜨어\n제;\n묘\n}\nマ\n}\nシ"
+    },
+    {
+      "region": "p1_r3",
+      "order": 1,
+      "file": "p1_r3_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r3",
+      "order": 2,
+      "file": "p1_r3_col02.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r3",
+      "order": 3,
+      "file": "p1_r3_col03.png",
+      "lang": "ja",
+      "conf": 0.5461,
+      "n_boxes": 10,
+      "by_lang": {
+        "ko": 7,
+        "ja": 3
+      },
+      "text": "\"\n{\n\"\n?\n賃ト\n조\n響\nt\n;\n手"
+    },
+    {
+      "region": "p1_r3",
+      "order": 4,
+      "file": "p1_r3_col04.png",
+      "lang": "ja",
+      "conf": 0.6405,
+      "n_boxes": 12,
+      "by_lang": {
+        "ko": 5,
+        "ja": 7
+      },
+      "text": "만'\nイ一\n)\n目\n7\n丁\n권\nシ\n二\n#\nセ\n才"
+    },
+    {
+      "region": "p1_r3",
+      "order": 5,
+      "file": "p1_r3_col05.png",
+      "lang": "ja",
+      "conf": 0.7542,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 2,
+        "ja": 3
+      },
+      "text": "仁\n川\n\"육?\n>\nヨ"
+    },
+    {
+      "region": "p1_r3",
+      "order": 6,
+      "file": "p1_r3_col06.png",
+      "lang": "ko",
+      "conf": 0.6038,
+      "n_boxes": 14,
+      "by_lang": {
+        "ko": 8,
+        "ja": 6
+      },
+      "text": "#술\n중\n모\n뒤로맣\nこ\n)\n育\nき\n뭐\n크\n1\nテ\n지요\nヨ"
+    },
+    {
+      "region": "p1_r3",
+      "order": 7,
+      "file": "p1_r3_col07.png",
+      "lang": "ko",
+      "conf": 0.4265,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 5,
+        "ja": 4
+      },
+      "text": "체서;\n끼움\nn\nカ\ni\n5\n쪽\nテ\n3"
+    },
+    {
+      "region": "p1_r3",
+      "order": 8,
+      "file": "p1_r3_col08.png",
+      "lang": "ko",
+      "conf": 0.4227,
+      "n_boxes": 11,
+      "by_lang": {
+        "ko": 7,
+        "ja": 4
+      },
+      "text": "3\n1\n=로망\ni\nバ\n#\n}\n기되}\n'1\n지오\n才"
+    },
+    {
+      "region": "p2_r2",
+      "order": 1,
+      "file": "p2_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r2",
+      "order": 2,
+      "file": "p2_r2_col02.png",
+      "lang": "ja",
+      "conf": 0.1028,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "誘"
+    },
+    {
+      "region": "p2_r2",
+      "order": 3,
+      "file": "p2_r2_col03.png",
+      "lang": "unknown",
+      "conf": 0.966,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "167"
+    },
+    {
+      "region": "p2_r2",
+      "order": 4,
+      "file": "p2_r2_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r2",
+      "order": 5,
+      "file": "p2_r2_col05.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r3",
+      "order": 1,
+      "file": "p2_r3_col01.png",
+      "lang": "ko",
+      "conf": 0.4666,
+      "n_boxes": 3,
+      "by_lang": {
+        "ko": 3,
+        "ja": 0
+      },
+      "text": "사화이\n#톤\n6"
+    },
+    {
+      "region": "p2_r3",
+      "order": 2,
+      "file": "p2_r3_col02.png",
+      "lang": "ko",
+      "conf": 0.9678,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 2,
+        "ja": 0
+      },
+      "text": "#기\n4"
+    },
+    {
+      "region": "p2_r3",
+      "order": 3,
+      "file": "p2_r3_col03.png",
+      "lang": "ko",
+      "conf": 0.1587,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 3,
+        "ja": 2
+      },
+      "text": "{미어{\n'낡\nV\n才\n(뼈라;"
+    },
+    {
+      "region": "p2_r3",
+      "order": 4,
+      "file": "p2_r3_col04.png",
+      "lang": "ko",
+      "conf": 0.1222,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "m육\nみ"
+    },
+    {
+      "region": "p2_r3",
+      "order": 5,
+      "file": "p2_r3_col05.png",
+      "lang": "ko",
+      "conf": 0.2647,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 3,
+        "ja": 3
+      },
+      "text": "버무수\n'\n7\n보아9\nn라\nう"
+    },
+    {
+      "region": "p2_r3",
+      "order": 6,
+      "file": "p2_r3_col06.png",
+      "lang": "ko",
+      "conf": 0.3784,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "복 "
+    },
+    {
+      "region": "p2_r3",
+      "order": 7,
+      "file": "p2_r3_col07.png",
+      "lang": "ja",
+      "conf": 0.4861,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 0,
+        "ja": 1
+      },
+      "text": "三"
+    },
+    {
+      "region": "p2_r3",
+      "order": 8,
+      "file": "p2_r3_col08.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r3",
+      "order": 9,
+      "file": "p2_r3_col09.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r4",
+      "order": 1,
+      "file": "p2_r4_col01.png",
+      "lang": "ja",
+      "conf": 0.7366,
+      "n_boxes": 10,
+      "by_lang": {
+        "ko": 6,
+        "ja": 4
+      },
+      "text": "\"\n船\n1\n1\nツ\n#\n{\n7\n}\n才"
+    },
+    {
+      "region": "p2_r4",
+      "order": 2,
+      "file": "p2_r4_col02.png",
+      "lang": "ko",
+      "conf": 0.518,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 4,
+        "ja": 4
+      },
+      "text": "\"#\nう\n쇼\n미\n1\n後\nマ\n지오*"
+    },
+    {
+      "region": "p2_r4",
+      "order": 3,
+      "file": "p2_r4_col03.png",
+      "lang": "ko",
+      "conf": 0.7842,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 2,
+        "ja": 4
+      },
+      "text": "7\n1\nテ\n1\n7\n크"
+    },
+    {
+      "region": "p2_r4",
+      "order": 4,
+      "file": "p2_r4_col04.png",
+      "lang": "ko",
+      "conf": 0.7615,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 3,
+        "ja": 1
+      },
+      "text": "(어\nド\n;\n비"
+    },
+    {
+      "region": "p2_r4",
+      "order": 5,
+      "file": "p2_r4_col05.png",
+      "lang": "ko",
+      "conf": 0.8292,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 6,
+        "ja": 3
+      },
+      "text": "n\n#\n품\n3\n船\n;\nデ\n지요\n3"
+    },
+    {
+      "region": "p2_r4",
+      "order": 6,
+      "file": "p2_r4_col06.png",
+      "lang": "ko",
+      "conf": 0.5604,
+      "n_boxes": 12,
+      "by_lang": {
+        "ko": 6,
+        "ja": 6
+      },
+      "text": "仁\n1\n씨\n\"#:\n!\nう\nヂ\n'\nガリト\nt\n지요\nヨ"
+    },
+    {
+      "region": "p2_r4",
+      "order": 7,
+      "file": "p2_r4_col07.png",
+      "lang": "ko",
+      "conf": 0.5832,
+      "n_boxes": 14,
+      "by_lang": {
+        "ko": 8,
+        "ja": 6
+      },
+      "text": "7하;\n통\n끝\n만\n\"\n떼\n!\n園\n+\n言\n숲\nデ\n지요\nコ"
+    },
+    {
+      "region": "p2_r4",
+      "order": 8,
+      "file": "p2_r4_col08.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r4",
+      "order": 9,
+      "file": "p2_r4_col09.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    }
+  ]
+}

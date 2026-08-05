@@ -1,0 +1,343 @@
+{
+  "source": "1912_국원수지일선회화_p060-061.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "ko",
+      "conf": 0.385,
+      "n_boxes": 4,
+      "by_lang": {
+        "ko": 3,
+        "ja": 1
+      },
+      "text": "*\n#\n품\nる"
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "ko",
+      "conf": 0.5879,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 4,
+        "ja": 1
+      },
+      "text": "*\n>\n;\n움\n1"
+    },
+    {
+      "region": "p1_r1",
+      "order": 5,
+      "file": "p1_r1_col05.png",
+      "lang": "ja",
+      "conf": 0.5436,
+      "n_boxes": 11,
+      "by_lang": {
+        "ko": 6,
+        "ja": 5
+      },
+      "text": "\"\n자\nる\n#\nチ\nる\n書\n+\nシ\n행\n1"
+    },
+    {
+      "region": "p1_r1",
+      "order": 6,
+      "file": "p1_r1_col06.png",
+      "lang": "ko",
+      "conf": 0.5108,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 6,
+        "ja": 3
+      },
+      "text": "J1\ny\n7\n;\nる\n昌\n3\n탑\n흙"
+    },
+    {
+      "region": "p1_r1",
+      "order": 7,
+      "file": "p1_r1_col07.png",
+      "lang": "ko",
+      "conf": 0.5841,
+      "n_boxes": 12,
+      "by_lang": {
+        "ko": 6,
+        "ja": 6
+      },
+      "text": "쌍\nモ\n그\n특\n#\nカ\nま\nる\n馨\n이\n子\n용"
+    },
+    {
+      "region": "p1_r1",
+      "order": 8,
+      "file": "p1_r1_col08.png",
+      "lang": "ko",
+      "conf": 0.5323,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 4,
+        "ja": 1
+      },
+      "text": "?\nJ\n양\nサ\n서"
+    },
+    {
+      "region": "p1_r1",
+      "order": 9,
+      "file": "p1_r1_col09.png",
+      "lang": "ko",
+      "conf": 0.5228,
+      "n_boxes": 14,
+      "by_lang": {
+        "ko": 9,
+        "ja": 5
+      },
+      "text": "방\ng\n중\n국\n#\nマ\nる\n馨\nX\nJ\n벼\n털?\n0\n1"
+    },
+    {
+      "region": "p1_r1",
+      "order": 10,
+      "file": "p1_r1_col10.png",
+      "lang": "ko",
+      "conf": 0.5542,
+      "n_boxes": 16,
+      "by_lang": {
+        "ko": 6,
+        "ja": 10
+      },
+      "text": "@\n@\n弓\n1\n子\nyr\nる\n1\nチ\n크\n5\n子\n다\n쇼\nJ\nオ"
+    },
+    {
+      "region": "p1_r1",
+      "order": 11,
+      "file": "p1_r1_col11.png",
+      "lang": "ja",
+      "conf": 0.9984,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 0,
+        "ja": 2
+      },
+      "text": "引\n見"
+    },
+    {
+      "region": "p1_r1",
+      "order": 12,
+      "file": "p1_r1_col12.png",
+      "lang": "ko",
+      "conf": 0.2858,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 6,
+        "ja": 3
+      },
+      "text": "。\n빵\n주\n。\n파로\n흥\n\"\n숨\nサ"
+    },
+    {
+      "region": "p1_r1",
+      "order": 13,
+      "file": "p1_r1_col13.png",
+      "lang": "ko",
+      "conf": 0.2457,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 6,
+        "ja": 2
+      },
+      "text": "な\n*\n통\n푹\n'}\n{\n'\n셋"
+    },
+    {
+      "region": "p2_r1",
+      "order": 1,
+      "file": "p2_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    },
+    {
+      "region": "p2_r1",
+      "order": 2,
+      "file": "p2_r1_col02.png",
+      "lang": "ja",
+      "conf": 0.5432,
+      "n_boxes": 12,
+      "by_lang": {
+        "ko": 7,
+        "ja": 5
+      },
+      "text": "0\n;\n\"\n1\n$\n*\n+\nア\nJ]\n#\nチ\n1"
+    },
+    {
+      "region": "p2_r1",
+      "order": 3,
+      "file": "p2_r1_col03.png",
+      "lang": "ja",
+      "conf": 0.7551,
+      "n_boxes": 11,
+      "by_lang": {
+        "ko": 5,
+        "ja": 6
+      },
+      "text": "合三\n1\nる\n'\nる\n질\nt\nム\n0\n#\n馨"
+    },
+    {
+      "region": "p2_r1",
+      "order": 4,
+      "file": "p2_r1_col04.png",
+      "lang": "ko",
+      "conf": 0.5836,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 5,
+        "ja": 0
+      },
+      "text": "0\n#\n잘\n'}\nt1"
+    },
+    {
+      "region": "p2_r1",
+      "order": 5,
+      "file": "p2_r1_col05.png",
+      "lang": "ko",
+      "conf": 0.4924,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 4,
+        "ja": 3
+      },
+      "text": "1\n変\ng\n量\n0\n흙\n7"
+    },
+    {
+      "region": "p2_r1",
+      "order": 6,
+      "file": "p2_r1_col06.png",
+      "lang": "ko",
+      "conf": 0.5572,
+      "n_boxes": 13,
+      "by_lang": {
+        "ko": 10,
+        "ja": 3
+      },
+      "text": "#\n:\n\"\n중\n초\n의\n!\n喜\n이\n0\n왜}\n0\nX"
+    },
+    {
+      "region": "p2_r1",
+      "order": 7,
+      "file": "p2_r1_col07.png",
+      "lang": "ko",
+      "conf": 0.7179,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 6,
+        "ja": 2
+      },
+      "text": "\"\n셋\n명\nジ\n합\n三\n응\n형"
+    },
+    {
+      "region": "p2_r1",
+      "order": 8,
+      "file": "p2_r1_col08.png",
+      "lang": "ko",
+      "conf": 0.4191,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 6,
+        "ja": 2
+      },
+      "text": "{:\n可\nヲ\n0\n\"\n4\n;\n중"
+    },
+    {
+      "region": "p2_r1",
+      "order": 9,
+      "file": "p2_r1_col09.png",
+      "lang": "ko",
+      "conf": 0.5715,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 4,
+        "ja": 4
+      },
+      "text": "。\n쪽\n1\nス\n@\n낡\nナ\n%"
+    },
+    {
+      "region": "p2_r1",
+      "order": 10,
+      "file": "p2_r1_col10.png",
+      "lang": "ko",
+      "conf": 0.5873,
+      "n_boxes": 12,
+      "by_lang": {
+        "ko": 8,
+        "ja": 4
+      },
+      "text": "장\n종\n곁'\n*\n!\n#\n흙\n!\nナ\n7\n喜\n술"
+    },
+    {
+      "region": "p2_r1",
+      "order": 11,
+      "file": "p2_r1_col11.png",
+      "lang": "unknown",
+      "conf": 0.3973,
+      "n_boxes": 1,
+      "by_lang": {
+        "ko": 1,
+        "ja": 0
+      },
+      "text": "?"
+    },
+    {
+      "region": "p2_r1",
+      "order": 12,
+      "file": "p2_r1_col12.png",
+      "lang": "ja",
+      "conf": 0.3105,
+      "n_boxes": 2,
+      "by_lang": {
+        "ko": 1,
+        "ja": 1
+      },
+      "text": "#\n鷺"
+    },
+    {
+      "region": "p2_r1",
+      "order": 13,
+      "file": "p2_r1_col13.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "text": ""
+    }
+  ]
+}

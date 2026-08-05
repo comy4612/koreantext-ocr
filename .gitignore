@@ -1,0 +1,16 @@
+# 재생성 가능한 파생 산출물
+preprocessed/
+preprocessed_noruby/
+preprocessed_noruby_dbg/
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+
+# 환경·비밀키
+.env
+*_key*
+
+# 원시 데이터(소장 기관 정책상 미배포, README의 취득 안내 참조)
+images/
