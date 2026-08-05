@@ -23,6 +23,7 @@ CER(문자 단위 오류율)를 삽입/대체/삭제로 분해하여 비교합�
 │   ├── run_ocr.py           #   (선택) 클라우드 API 호출 + 언어 판별 함수
 │   ├── json_to_gt.py        #   JSON 정답지 → 평가용 txt 변환
 │   └── evaluate_cer.py      #   CER 산출 + 삽입/대체/삭제 분해
+├── commercial_ocr_eval/     # 상용 OCR 평가
 ├── gt_json/                 # 정답지 원본(JSON, 문헌 4종 × 40페이지)
 ├── gt/                      # 평가용 정답지(루비 포함, 스캔면 단위 txt)
 ├── gt_noruby/               # 평가용 정답지(본문 문자만)
