@@ -34,13 +34,19 @@ from pathlib import Path
 RUBY_RE = re.compile(r"\{([^{}]*)\}")
 
 
-def clean_text(text, drop_ruby=False, dash_to_choon=False):
+def clean_text(text, drop_ruby=False, dash_to_choon=False, ruby_only=False):
     """루비 마크업 정리.
 
-    drop_ruby=False: 중괄호만 제거, 루비 문자는 유지 (기본)
+    ruby_only=True : 중괄호 안의 루비 문자만 추출 (루비 계층 평가용)
     drop_ruby=True : 루비 전체 제거 (본문 문자만 평가할 때)
+    기본           : 중괄호만 제거, 루비 문자는 유지
     dash_to_choon  : 루비 안의 '-'를 장음 기호 'ー'로 치환
     """
+    if ruby_only:
+        rubies = RUBY_RE.findall(text)
+        if dash_to_choon:
+            rubies = [r.replace("-", "ー") for r in rubies]
+        return "".join(rubies)
     if drop_ruby:
         return RUBY_RE.sub("", text)
     if dash_to_choon:
@@ -91,9 +97,9 @@ def convert_file(json_path, out_dir, args):
         for p in grp:
             for e in pages[p]:
                 ja = clean_text(e.get("text_ja", ""), args.drop_ruby,
-                                args.dash_to_choon)
+                                args.dash_to_choon, args.ruby_only)
                 ko = clean_text(e.get("text_ko", ""), args.drop_ruby,
-                                args.dash_to_choon)
+                                args.dash_to_choon, args.ruby_only)
                 if ja:
                     ja_lines.append(ja)
                     mixed_lines.append(ja)
@@ -126,6 +132,8 @@ def main():
                     help="언어별(_ja/_ko) 분리 저장")
     ap.add_argument("--drop-ruby", action="store_true",
                     help="루비 문자를 완전히 제거(기본: 중괄호만 제거)")
+    ap.add_argument("--ruby-only", action="store_true",
+                    help="루비 문자만 추출(루비 계층 평가용)")
     ap.add_argument("--dash-to-choon", action="store_true",
                     help="루비 안의 '-'를 장음 'ー'로 치환")
     ap.add_argument("--exclude-page", type=int, action="append",

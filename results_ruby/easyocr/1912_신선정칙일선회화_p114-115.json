@@ -1,0 +1,708 @@
+{
+  "source": "1912_신선정칙일선회화_p114-115.jpg",
+  "columns": [
+    {
+      "region": "p1_r1",
+      "order": 1,
+      "file": "p1_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 2,
+      "file": "p1_r1_col02.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 3,
+      "file": "p1_r1_col03.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p1_r1",
+      "order": 4,
+      "file": "p1_r1_col04.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 1,
+      "file": "p1_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 2,
+      "file": "p1_r2_col02.png",
+      "lang": "ja",
+      "conf": 0.3305,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 4,
+        "ja": 3
+      },
+      "boxes": [
+        {
+          "lang": "ja",
+          "text": "三",
+          "conf": 0.47
+        },
+        {
+          "lang": "ja",
+          "text": "才",
+          "conf": 0.1749
+        },
+        {
+          "lang": "ja",
+          "text": "三",
+          "conf": 0.1174
+        },
+        {
+          "lang": "ko",
+          "text": "?",
+          "conf": 0.6215
+        },
+        {
+          "lang": "ko",
+          "text": "J",
+          "conf": 0.1434
+        },
+        {
+          "lang": "ko",
+          "text": ";",
+          "conf": 0.4111
+        },
+        {
+          "lang": "ko",
+          "text": "9",
+          "conf": 0.375
+        }
+      ],
+      "text": "三\n才\n三\n?\nJ\n;\n9"
+    },
+    {
+      "region": "p1_r2",
+      "order": 3,
+      "file": "p1_r2_col03.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 4,
+      "file": "p1_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.359,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 4,
+        "ja": 3
+      },
+      "boxes": [
+        {
+          "lang": "ko",
+          "text": ";",
+          "conf": 0.4983
+        },
+        {
+          "lang": "ja",
+          "text": "当",
+          "conf": 0.9416
+        },
+        {
+          "lang": "ko",
+          "text": "주",
+          "conf": 0.3502
+        },
+        {
+          "lang": "ko",
+          "text": "'",
+          "conf": 0.1697
+        },
+        {
+          "lang": "ja",
+          "text": ";",
+          "conf": 0.3089
+        },
+        {
+          "lang": "ja",
+          "text": "色",
+          "conf": 0.0737
+        },
+        {
+          "lang": "ko",
+          "text": "군",
+          "conf": 0.1709
+        }
+      ],
+      "text": ";\n当\n주\n'\n;\n色\n군"
+    },
+    {
+      "region": "p1_r2",
+      "order": 5,
+      "file": "p1_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.5064,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 5,
+        "ja": 4
+      },
+      "boxes": [
+        {
+          "lang": "ko",
+          "text": "중",
+          "conf": 0.4815
+        },
+        {
+          "lang": "ja",
+          "text": "1",
+          "conf": 0.1147
+        },
+        {
+          "lang": "ko",
+          "text": "소",
+          "conf": 0.6567
+        },
+        {
+          "lang": "ko",
+          "text": ",",
+          "conf": 0.5276
+        },
+        {
+          "lang": "ko",
+          "text": "그",
+          "conf": 0.9663
+        },
+        {
+          "lang": "ja",
+          "text": "玉",
+          "conf": 0.0558
+        },
+        {
+          "lang": "ja",
+          "text": "カ",
+          "conf": 0.6657
+        },
+        {
+          "lang": "ko",
+          "text": ";",
+          "conf": 0.2947
+        },
+        {
+          "lang": "ja",
+          "text": "手",
+          "conf": 0.7946
+        }
+      ],
+      "text": "중\n1\n소\n,\n그\n玉\nカ\n;\n手"
+    },
+    {
+      "region": "p1_r2",
+      "order": 6,
+      "file": "p1_r2_col06.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 7,
+      "file": "p1_r2_col07.png",
+      "lang": "ko",
+      "conf": 0.4126,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 5,
+        "ja": 1
+      },
+      "boxes": [
+        {
+          "lang": "ko",
+          "text": "참",
+          "conf": 0.1438
+        },
+        {
+          "lang": "ko",
+          "text": "{",
+          "conf": 0.424
+        },
+        {
+          "lang": "ko",
+          "text": "'",
+          "conf": 0.9523
+        },
+        {
+          "lang": "ko",
+          "text": ";",
+          "conf": 0.4505
+        },
+        {
+          "lang": "ja",
+          "text": "i",
+          "conf": 0.2807
+        },
+        {
+          "lang": "ko",
+          "text": "초",
+          "conf": 0.2241
+        }
+      ],
+      "text": "참\n{\n'\n;\ni\n초"
+    },
+    {
+      "region": "p1_r2",
+      "order": 8,
+      "file": "p1_r2_col08.png",
+      "lang": "ja",
+      "conf": 0.5638,
+      "n_boxes": 8,
+      "by_lang": {
+        "ko": 5,
+        "ja": 3
+      },
+      "boxes": [
+        {
+          "lang": "ko",
+          "text": "#",
+          "conf": 0.7679
+        },
+        {
+          "lang": "ja",
+          "text": "三",
+          "conf": 0.46
+        },
+        {
+          "lang": "ja",
+          "text": "?",
+          "conf": 0.9113
+        },
+        {
+          "lang": "ko",
+          "text": ";",
+          "conf": 0.7797
+        },
+        {
+          "lang": "ko",
+          "text": "#",
+          "conf": 0.4313
+        },
+        {
+          "lang": "ko",
+          "text": "'",
+          "conf": 0.6711
+        },
+        {
+          "lang": "ko",
+          "text": "J",
+          "conf": 0.1001
+        },
+        {
+          "lang": "ja",
+          "text": "》",
+          "conf": 0.3889
+        }
+      ],
+      "text": "#\n三\n?\n;\n#\n'\nJ\n》"
+    },
+    {
+      "region": "p1_r2",
+      "order": 9,
+      "file": "p1_r2_col09.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p1_r2",
+      "order": 10,
+      "file": "p1_r2_col10.png",
+      "lang": "ko",
+      "conf": 0.5946,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 2,
+        "ja": 3
+      },
+      "boxes": [
+        {
+          "lang": "ja",
+          "text": "三",
+          "conf": 0.3458
+        },
+        {
+          "lang": "ja",
+          "text": "\"",
+          "conf": 0.9027
+        },
+        {
+          "lang": "ko",
+          "text": "'",
+          "conf": 0.5016
+        },
+        {
+          "lang": "ko",
+          "text": "그",
+          "conf": 0.9139
+        },
+        {
+          "lang": "ja",
+          "text": "さ",
+          "conf": 0.309
+        }
+      ],
+      "text": "三\n\"\n'\n그\nさ"
+    },
+    {
+      "region": "p2_r1",
+      "order": 1,
+      "file": "p2_r1_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p2_r2",
+      "order": 1,
+      "file": "p2_r2_col01.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p2_r2",
+      "order": 2,
+      "file": "p2_r2_col02.png",
+      "lang": "ja",
+      "conf": 0.8238,
+      "n_boxes": 6,
+      "by_lang": {
+        "ko": 3,
+        "ja": 3
+      },
+      "boxes": [
+        {
+          "lang": "ko",
+          "text": "{",
+          "conf": 0.7732
+        },
+        {
+          "lang": "ja",
+          "text": "\"",
+          "conf": 0.7113
+        },
+        {
+          "lang": "ja",
+          "text": "ス",
+          "conf": 0.9785
+        },
+        {
+          "lang": "ja",
+          "text": "三",
+          "conf": 0.7302
+        },
+        {
+          "lang": "ko",
+          "text": "#",
+          "conf": 0.8164
+        },
+        {
+          "lang": "ko",
+          "text": "{",
+          "conf": 0.9331
+        }
+      ],
+      "text": "{\n\"\nス\n三\n#\n{"
+    },
+    {
+      "region": "p2_r2",
+      "order": 3,
+      "file": "p2_r2_col03.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p2_r2",
+      "order": 4,
+      "file": "p2_r2_col04.png",
+      "lang": "ko",
+      "conf": 0.5189,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 2,
+        "ja": 3
+      },
+      "boxes": [
+        {
+          "lang": "ko",
+          "text": "*",
+          "conf": 0.6399
+        },
+        {
+          "lang": "ja",
+          "text": "z",
+          "conf": 0.0679
+        },
+        {
+          "lang": "ko",
+          "text": "크",
+          "conf": 0.1104
+        },
+        {
+          "lang": "ja",
+          "text": "シ",
+          "conf": 0.9964
+        },
+        {
+          "lang": "ja",
+          "text": "ヨ",
+          "conf": 0.7799
+        }
+      ],
+      "text": "*\nz\n크\nシ\nヨ"
+    },
+    {
+      "region": "p2_r2",
+      "order": 5,
+      "file": "p2_r2_col05.png",
+      "lang": "ko",
+      "conf": 0.681,
+      "n_boxes": 7,
+      "by_lang": {
+        "ko": 4,
+        "ja": 3
+      },
+      "boxes": [
+        {
+          "lang": "ja",
+          "text": "ガ",
+          "conf": 0.6878
+        },
+        {
+          "lang": "ko",
+          "text": "총",
+          "conf": 0.5025
+        },
+        {
+          "lang": "ko",
+          "text": "\"",
+          "conf": 0.9998
+        },
+        {
+          "lang": "ko",
+          "text": "'",
+          "conf": 0.9512
+        },
+        {
+          "lang": "ko",
+          "text": "초",
+          "conf": 0.5785
+        },
+        {
+          "lang": "ja",
+          "text": "デ",
+          "conf": 0.9291
+        },
+        {
+          "lang": "ja",
+          "text": "ヨ",
+          "conf": 0.1179
+        }
+      ],
+      "text": "ガ\n총\n\"\n'\n초\nデ\nヨ"
+    },
+    {
+      "region": "p2_r2",
+      "order": 6,
+      "file": "p2_r2_col06.png",
+      "lang": "ja",
+      "conf": 0.5967,
+      "n_boxes": 5,
+      "by_lang": {
+        "ko": 2,
+        "ja": 3
+      },
+      "boxes": [
+        {
+          "lang": "ko",
+          "text": ";",
+          "conf": 0.5095
+        },
+        {
+          "lang": "ja",
+          "text": ";",
+          "conf": 0.8911
+        },
+        {
+          "lang": "ja",
+          "text": "'",
+          "conf": 0.6621
+        },
+        {
+          "lang": "ko",
+          "text": "7",
+          "conf": 0.8381
+        },
+        {
+          "lang": "ja",
+          "text": "手",
+          "conf": 0.0827
+        }
+      ],
+      "text": ";\n;\n'\n7\n手"
+    },
+    {
+      "region": "p2_r2",
+      "order": 7,
+      "file": "p2_r2_col07.png",
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
+      "by_lang": {
+        "ko": 0,
+        "ja": 0
+      },
+      "boxes": [],
+      "text": ""
+    },
+    {
+      "region": "p2_r2",
+      "order": 8,
+      "file": "p2_r2_col08.png",
+      "lang": "ja",
+      "conf": 0.5357,
+      "n_boxes": 9,
+      "by_lang": {
+        "ko": 3,
+        "ja": 6
+      },
+      "boxes": [
+        {
+          "lang": "ko",
+          "text": "J",
+          "conf": 0.1709
+        },
+        {
+          "lang": "ja",
+          "text": "三",
+          "conf": 0.0744
+        },
+        {
+          "lang": "ja",
+          "text": "1",
+          "conf": 0.6074
+        },
+        {
+          "lang": "ja",
+          "text": "そ",
+          "conf": 0.1628
+        },
+        {
+          "lang": "ko",
+          "text": "주",
+          "conf": 0.7799
+        },
+        {
+          "lang": "ja",
+          "text": "ラ",
+          "conf": 0.9853
+        },
+        {
+          "lang": "ja",
+          "text": "ト",
+          "conf": 0.346
+        },
+        {
+          "lang": "ko",
+          "text": "\"",
+          "conf": 0.706
+        },
+        {
+          "lang": "ja",
+          "text": "え",
+          "conf": 0.9882
+        }
+      ],
+      "text": "J\n三\n1\nそ\n주\nラ\nト\n\"\nえ"
+    }
+  ]
+}

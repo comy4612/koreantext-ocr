@@ -81,8 +81,31 @@ def cer_decompose(ref, hyp):
             r -= 1
 
     n = max(R, 1)
-    return {"n": R, "i": i, "s": s, "d": d,
-            "cer": (i + s + d) / n}
+    return add_prf({"n": R, "i": i, "s": s, "d": d,
+                    "cer": (i + s + d) / n})
+
+
+def add_prf(m):
+    """문자 단위 정밀도·재현율·F1을 계산해 덧붙인다.
+
+      일치(correct) = 정답 문자 수 − 대체 − 삭제
+      출력(hyp_len) = 정답 문자 수 − 삭제 + 삽입
+      재현율 = 일치 / 정답 문자 수   → 검출 누락(삭제)에 대응
+      정밀도 = 일치 / 출력 문자 수   → 잡음 혼입(삽입)에 대응
+      F1     = 2PR / (P+R)
+
+    CER는 삽입이 많으면 100%를 넘어 해석이 어렵지만 F1은 0~1에 한정되므로
+    조건 간 비교에 적합하다(심사 의견 C-3 대응).
+    """
+    n, i, s, d = m["n"], m["i"], m["s"], m["d"]
+    c = n - s - d              # 정답과 일치한 문자 수
+    h = n - d + i              # 인식 결과의 문자 수
+    p = c / h if h > 0 else 0.0
+    r = c / n if n > 0 else 0.0
+    f = 2 * p * r / (p + r) if (p + r) > 0 else 0.0
+    m.update({"correct": c, "hyp_len": h,
+              "precision": p, "recall": r, "f1": f})
+    return m
 
 
 def eval_pair(ref_path, hyp_path, keep_space, nfc):
@@ -111,13 +134,15 @@ def aggregate(rows):
     I = sum(r["i"] for r in rows)
     S = sum(r["s"] for r in rows)
     D = sum(r["d"] for r in rows)
-    return {"n": N, "i": I, "s": S, "d": D,
-            "cer": (I + S + D) / max(N, 1)}
+    return add_prf({"n": N, "i": I, "s": S, "d": D,
+                    "cer": (I + S + D) / max(N, 1)})
 
 
 def fmt(m, label=""):
     return (f"{label:<24} n={m['n']:>6}  ins={m['i']:>6}  sub={m['s']:>6}  "
-            f"del={m['d']:>6}  CER={m['cer']*100:7.2f}%")
+            f"del={m['d']:>6}  CER={m['cer']*100:7.2f}%  "
+            f"P={m['precision']*100:5.1f}%  R={m['recall']*100:5.1f}%  "
+            f"F1={m['f1']*100:6.2f}%")
 
 
 def main():
@@ -162,28 +187,46 @@ def main():
         agg2 = aggregate(rows2)
         print("-" * 78)
         print(fmt(agg2, "전체(micro avg)"))
-        diff = (agg1["cer"] - agg2["cer"]) * 100
-        print(f"\n[전/후 비교] CER {agg1['cer']*100:.2f}% -> {agg2['cer']*100:.2f}%  "
-              f"({diff:+.2f}%p 개선)" if diff > 0 else
-              f"\n[전/후 비교] CER {agg1['cer']*100:.2f}% -> {agg2['cer']*100:.2f}%  "
-              f"({-diff:.2f}%p 악화)")
+        d_cer = (agg1["cer"] - agg2["cer"]) * 100
+        d_f1 = (agg2["f1"] - agg1["f1"]) * 100
+        print(f"\n[전/후 비교] CER {agg1['cer']*100:.2f}% -> {agg2['cer']*100:.2f}% "
+              f"({d_cer:+.2f}%p, 낮을수록 좋음)")
+        print(f"[전/후 비교] F1  {agg1['f1']*100:.2f}% -> {agg2['f1']*100:.2f}% "
+              f"({d_f1:+.2f}%p, 높을수록 좋음)")
+        print(f"             정밀도 {agg1['precision']*100:.1f}% -> "
+              f"{agg2['precision']*100:.1f}%  |  "
+              f"재현율 {agg1['recall']*100:.1f}% -> {agg2['recall']*100:.1f}%")
 
     if args.csv:
         with open(args.csv, "w", newline="", encoding="utf-8-sig") as f:
             w = csv.writer(f)
-            header = ["file", "n", "ins", "sub", "del", "CER(%)"]
+            base = ["n", "ins", "sub", "del", "CER(%)", "정답일치",
+                    "정밀도(%)", "재현율(%)", "F1(%)"]
+            header = ["file"] + base
             if rows2:
-                header += ["ins2", "sub2", "del2", "CER2(%)", "diff(%p)"]
+                header += [c + "_2" for c in base[1:]] + ["CER차(%p)", "F1차(%p)"]
             w.writerow(header)
+
+            def vals(r):
+                return [r["i"], r["s"], r["d"], round(r["cer"] * 100, 2),
+                        r["correct"], round(r["precision"] * 100, 2),
+                        round(r["recall"] * 100, 2), round(r["f1"] * 100, 2)]
+
             idx2 = {r["file"]: r for r in (rows2 or [])}
             for r in rows1:
-                row = [r["file"], r["n"], r["i"], r["s"], r["d"],
-                       round(r["cer"] * 100, 2)]
+                row = [r["file"], r["n"]] + vals(r)
                 if rows2 and r["file"] in idx2:
                     r2 = idx2[r["file"]]
-                    row += [r2["i"], r2["s"], r2["d"], round(r2["cer"] * 100, 2),
-                            round((r["cer"] - r2["cer"]) * 100, 2)]
+                    row += vals(r2) + [round((r["cer"] - r2["cer"]) * 100, 2),
+                                       round((r2["f1"] - r["f1"]) * 100, 2)]
                 w.writerow(row)
+
+            # 마지막 행에 전체(micro avg) 추가
+            row = ["__전체(micro avg)__", agg1["n"]] + vals(agg1)
+            if rows2:
+                row += vals(agg2) + [round((agg1["cer"] - agg2["cer"]) * 100, 2),
+                                     round((agg2["f1"] - agg1["f1"]) * 100, 2)]
+            w.writerow(row)
         print(f"\nCSV 저장: {args.csv}")
 
 

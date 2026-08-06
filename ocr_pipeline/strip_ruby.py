@@ -57,8 +57,13 @@ def blobs_of(gray, p):
     return blobs, labels
 
 
-def process_region(page_dir, out_dir, cols, p, debug):
-    """한 영역의 컬럼들을 함께 처리(본문 크기를 영역 단위로 산출)."""
+def process_region(page_dir, out_dir, cols, p, debug, ruby_dir=None):
+    """한 영역의 컬럼들을 함께 처리(본문 크기를 영역 단위로 산출).
+
+    ruby_dir가 주어지면 본문을 지우고 루비만 남긴 이미지도 함께 저장한다.
+    두 출력은 서로 배타적·상보적이므로, 각각을 본문 정답지·루비 정답지와
+    대조하면 문자 계층 분리의 결과를 계층별로 평가할 수 있다.
+    """
     data = []  # (col, gray, blobs, labels)
     all_heights = []
     for col in cols:
@@ -72,6 +77,9 @@ def process_region(page_dir, out_dir, cols, p, debug):
     if not all_heights:
         for col, gray, _, _ in data:
             cv2.imwrite(str(out_dir / col["file"]), gray)
+            if ruby_dir is not None:
+                cv2.imwrite(str(ruby_dir / col["file"]),
+                            np.full_like(gray, 255))
         return 0, 0
 
     main_h = float(np.percentile(all_heights, 75))
@@ -86,9 +94,13 @@ def process_region(page_dir, out_dir, cols, p, debug):
         # (중앙값 기준은 루비 글자 수가 본문보다 많은 혼합 컬럼을
         #  오판하므로, 90분위 높이로 "큰 글자의 존재 여부"를 본다)
         col_p90 = float(np.percentile([b[3] for b in blobs], 90)) if blobs else 0.0
+        ruby_img = np.full_like(gray, 255) if ruby_dir is not None else None
+
         if blobs and col_p90 < thresh_h:
-            # 컬럼 전체가 루비(본문 열 옆에 분리된 루비 열) → 백지 처리
-            out = np.full_like(gray, 255)
+            # 컬럼 전체가 루비(본문 열 옆에 분리된 루비 열)
+            out = np.full_like(gray, 255)      # 본문 출력에서는 백지
+            if ruby_img is not None:
+                ruby_img = gray.copy()         # 루비 출력에서는 원본 그대로
             n_ruby_cols += 1
             if debug:
                 cv2.rectangle(dbg, (0, 0), (col_w - 1, gray.shape[0] - 1),
@@ -100,7 +112,10 @@ def process_region(page_dir, out_dir, cols, p, debug):
                 is_ruby = (ch < thresh_h and cw < main_h
                            and cx > col_w * p["right_bias"])
                 if is_ruby:
-                    out[labels == lab] = 255
+                    mask = labels == lab
+                    out[mask] = 255
+                    if ruby_img is not None:
+                        ruby_img[mask] = gray[mask]
                     n_ruby_blobs += 1
                     if debug:
                         cv2.rectangle(dbg, (x, y), (x + cw, y + ch),
@@ -110,6 +125,8 @@ def process_region(page_dir, out_dir, cols, p, debug):
                                   (0, 180, 0), 1)
 
         cv2.imwrite(str(out_dir / col["file"]), out)
+        if ruby_img is not None:
+            cv2.imwrite(str(ruby_dir / col["file"]), ruby_img)
         if debug:
             cv2.imwrite(str(out_dir / f"dbg_{col['file']}"), dbg)
 
@@ -121,12 +138,16 @@ def main():
     ap.add_argument("input", help="preprocess.py 출력 폴더")
     ap.add_argument("output", help="루비 제거본 저장 폴더")
     ap.add_argument("--debug", action="store_true", help="판정 시각화 저장")
+    ap.add_argument("--ruby-output",
+                    help="루비만 남긴 이미지를 저장할 폴더(루비 계층 평가용). "
+                         "본문 출력과 동일한 구조·파일명으로 저장된다.")
     for kname, v in DEFAULTS.items():
         ap.add_argument(f"--{kname.replace('_', '-')}", type=type(v), default=v)
     args = ap.parse_args()
     p = {kname: getattr(args, kname) for kname in DEFAULTS}
 
     in_dir, out_dir = Path(args.input), Path(args.output)
+    ruby_root = Path(args.ruby_output) if args.ruby_output else None
     page_dirs = sorted(d for d in in_dir.iterdir()
                        if d.is_dir() and (d / "meta.json").exists())
     if not page_dirs:
@@ -136,14 +157,19 @@ def main():
         od = out_dir / pd.name
         od.mkdir(parents=True, exist_ok=True)
         shutil.copy(pd / "meta.json", od / "meta.json")
+        rd = None
+        if ruby_root is not None:
+            rd = ruby_root / pd.name
+            rd.mkdir(parents=True, exist_ok=True)
+            shutil.copy(pd / "meta.json", rd / "meta.json")
         with open(pd / "meta.json", encoding="utf-8") as f:
             meta = json.load(f)
         rc = rb = 0
         for cols in meta["regions"].values():
-            a, b = process_region(pd, od, cols, p, args.debug)
+            a, b = process_region(pd, od, cols, p, args.debug, rd)
             rc += a
             rb += b
-        print(f"[OK] {pd.name}: 루비 컬럼 {rc}개 제거, 잔존 루비 덩어리 {rb}개 제거")
+        print(f"[OK] {pd.name}: 루비 컬럼 {rc}개 분리, 잔존 루비 덩어리 {rb}개 분리")
 
     with open(out_dir / "strip_ruby_params.json", "w", encoding="utf-8") as f:
         json.dump(p, f, ensure_ascii=False, indent=2)
