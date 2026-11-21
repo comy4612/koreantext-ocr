@@ -1,9 +1,0 @@
-{
-  "engine": "Tesseract",
-  "version": "5.3.4",
-  "langs": "kor_vert+jpn_vert",
-  "mode": "after",
-  "psm": 5,
-  "upscale": 2.0,
-  "date": "2026-08-05"
-}

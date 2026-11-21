@@ -1,8 +1,0 @@
-{
-  "engine": "EasyOCR",
-  "version": "1.7.2",
-  "mode": "baseline(전처리 없음, 원본 스캔면 전체)",
-  "policy": "ko/ja 리더 개별 실행 → 신뢰도+문자유형 채택, y좌표 정렬",
-  "gpu": true,
-  "date": "2026-08-05"
-}
