@@ -1,83 +1,83 @@
 {
-  "source": "1913_국어선어쌍성통해_p048-049.jpg",
+  "source": "1913_국어선어쌍설통해_p048-049.jpg",
   "columns": [
     {
       "region": "p1_r1",
       "order": 1,
       "file": "p1_r1_col01.png",
       "lang": "ko",
-      "conf": 0.5627,
-      "n_boxes": 16,
+      "conf": 0.5022,
+      "n_boxes": 13,
       "by_lang": {
-        "ko": 10,
-        "ja": 6
+        "ko": 9,
+        "ja": 4
       },
-      "text": "출\n三\n3\n쇼\n晋\n것\nシ\n弓\n夏\n끈\n오\n출\n끈\n탓\n:\n소"
+      "text": "출\n三\n3\n쇼\n晋\nウ\n三費\n\"\n오\n출\n끈\n탓\n소 *"
     },
     {
       "region": "p1_r1",
       "order": 2,
       "file": "p1_r1_col02.png",
       "lang": "ko",
-      "conf": 0.4941,
-      "n_boxes": 10,
+      "conf": 0.3956,
+      "n_boxes": 5,
       "by_lang": {
         "ko": 5,
-        "ja": 5
+        "ja": 0
       },
-      "text": "물#\n뒤\n5\nマ\nシ\nウ\n리도\nス\n오\nか"
+      "text": "물#\n뒤\n리$\n오\n털;"
     },
     {
       "region": "p1_r1",
       "order": 3,
       "file": "p1_r1_col03.png",
       "lang": "ko",
-      "conf": 0.5378,
-      "n_boxes": 7,
+      "conf": 0.5905,
+      "n_boxes": 8,
       "by_lang": {
         "ko": 5,
-        "ja": 2
+        "ja": 3
       },
-      "text": "뿐\n孟\n춤\n'\n주\nス\n오"
+      "text": "興\n'주 #\n쇠\n짓\nウ\n遣\n'\n오"
     },
     {
       "region": "p1_r1",
       "order": 4,
       "file": "p1_r1_col04.png",
       "lang": "ko",
-      "conf": 0.5728,
-      "n_boxes": 7,
+      "conf": 0.6674,
+      "n_boxes": 10,
       "by_lang": {
-        "ko": 4,
-        "ja": 3
+        "ko": 5,
+        "ja": 5
       },
-      "text": "折\n썩\n;\nユ\n쇠\n1三\n소"
+      "text": "折\n썩\n;\nユ\n쇠\n折\nウ\n씩량\n소\n折"
     },
     {
       "region": "p1_r1",
       "order": 5,
       "file": "p1_r1_col05.png",
       "lang": "ko",
-      "conf": 0.6537,
-      "n_boxes": 12,
+      "conf": 0.6268,
+      "n_boxes": 10,
       "by_lang": {
-        "ko": 9,
-        "ja": 3
+        "ko": 8,
+        "ja": 2
       },
-      "text": "打\n세\n;\n리\n쇠\n~\n#\n…\n리\n오\n럿\n소"
+      "text": "打\n세\n;\n리\n쇠\n리\n오\n$\n럿\n소 7"
     },
     {
       "region": "p1_r1",
       "order": 6,
       "file": "p1_r1_col06.png",
       "lang": "ko",
-      "conf": 0.5685,
+      "conf": 0.5701,
       "n_boxes": 11,
       "by_lang": {
-        "ko": 10,
-        "ja": 1
+        "ko": 9,
+        "ja": 2
       },
-      "text": "청\n쌀\n실로\n으\n9\n(실옆\n*\n으\n오\n峯\n쌀"
+      "text": "청\n쌀구\n실로\n%\n9\n(실몇\nキ\n으\n오\n峯\n쌀"
     },
     {
       "region": "p1_r1",
@@ -96,79 +96,79 @@
       "region": "p2_r1",
       "order": 1,
       "file": "p2_r1_col01.png",
-      "lang": "ja",
-      "conf": 0.648,
-      "n_boxes": 6,
+      "lang": "ko",
+      "conf": 0.4233,
+      "n_boxes": 9,
       "by_lang": {
-        "ko": 2,
-        "ja": 4
+        "ko": 4,
+        "ja": 5
       },
-      "text": "遣\n器\n팬\nヤ\n\"\nス"
+      "text": "遣\n벼\nV\n것\nウ\n표\n)\n峯\nタ"
     },
     {
       "region": "p2_r1",
       "order": 2,
       "file": "p2_r1_col02.png",
       "lang": "ko",
-      "conf": 0.5187,
-      "n_boxes": 11,
+      "conf": 0.4942,
+      "n_boxes": 12,
       "by_lang": {
-        "ko": 7,
+        "ko": 8,
         "ja": 4
       },
-      "text": "使\n{\no쓰\n씨시\n요\nマ\nシ\n쓰산\nと\n오저\n못"
+      "text": "使\n7\nc시\n才\n요\n&使\n객\n소9\n쓰산\n오\n公使\n오 ,"
     },
     {
       "region": "p2_r1",
       "order": 3,
       "file": "p2_r1_col03.png",
       "lang": "ko",
-      "conf": 0.5277,
-      "n_boxes": 11,
+      "conf": 0.4377,
+      "n_boxes": 9,
       "by_lang": {
-        "ko": 5,
-        "ja": 6
+        "ko": 7,
+        "ja": 2
       },
-      "text": "返\n\"\n감표\nn\nシ\n弓\n갑표\nシ\nマ\n소제\n국"
+      "text": "返\n#\n;\n弘返\n껏\n소9\n갑표\n소\n}"
     },
     {
       "region": "p2_r1",
       "order": 4,
       "file": "p2_r1_col04.png",
-      "lang": "ja",
-      "conf": 0.5497,
-      "n_boxes": 9,
+      "lang": "ko",
+      "conf": 0.4463,
+      "n_boxes": 10,
       "by_lang": {
-        "ko": 4,
-        "ja": 5
+        "ko": 8,
+        "ja": 2
       },
-      "text": "受\n\"\n축\n才\n\"\n쭉\nっ\nシ\n弓"
+      "text": "受\n\"\n축\n才\n꽃\n껏\n소9\n반뜻\n5\n초"
     },
     {
       "region": "p2_r1",
       "order": 5,
       "file": "p2_r1_col05.png",
       "lang": "ko",
-      "conf": 0.5875,
-      "n_boxes": 14,
+      "conf": 0.4816,
+      "n_boxes": 9,
       "by_lang": {
         "ko": 6,
-        "ja": 8
+        "ja": 3
       },
-      "text": "好\n질\n#\n'기\n』\n질#\n것\nマ\nシ\nウ\n登好\n三\n교*\nマ"
+      "text": "好\n질\n축\n'기\n쇠축\n것,\n登好\n見好\n조 ,"
     },
     {
       "region": "p2_r1",
       "order": 6,
       "file": "p2_r1_col06.png",
       "lang": "ko",
-      "conf": 0.6856,
-      "n_boxes": 7,
+      "conf": 0.7137,
+      "n_boxes": 13,
       "by_lang": {
-        "ko": 6,
-        "ja": 1
+        "ko": 9,
+        "ja": 4
       },
-      "text": "嫌\n출\n실\n3\n춤\n신:\n실"
+      "text": "嫌\n#,\n실\n#\n1\n手\nラ\n9\n실로\nラ\n소\n실패\n옛 ,"
     }
   ]
 }

@@ -114,7 +114,7 @@ def evaluate_acrobat_pages(gt_json_path, ocr_dir, page_to_txt_map):
 # =====================================================================
 if __name__ == "__main__":
     # 1. 평가할 정답지(GT) 파일 경로
-    GT_FILE_PATH = "../../gt_json/1913 국어선어쌍성통해_after.json" 
+    GT_FILE_PATH = "../../gt_json/1913 국어선어쌍설통해_after.json" 
     
     # 2. Acrobat에서 추출한 .txt 파일이 있는 폴더
     OCR_DIR = "../ocr_output/acrobat_answer"

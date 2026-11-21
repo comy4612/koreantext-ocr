@@ -1,5 +1,5 @@
 {
-  "source": "1913_국어선어쌍성통해_p094-095.jpg",
+  "source": "1913_국어선어쌍설통해_p094-095.jpg",
   "columns": [
     {
       "region": "p1_r1",
@@ -32,13 +32,13 @@
       "order": 2,
       "file": "p1_r2_col02.png",
       "lang": "ko",
-      "conf": 0.5263,
+      "conf": 0.0588,
       "n_boxes": 2,
       "by_lang": {
         "ko": 2,
         "ja": 0
       },
-      "text": "#상3 \n\""
+      "text": "#상 3\n#치*"
     },
     {
       "region": "p1_r2",
@@ -58,13 +58,13 @@
       "order": 4,
       "file": "p1_r2_col04.png",
       "lang": "ja",
-      "conf": 0.1324,
+      "conf": 0.2981,
       "n_boxes": 3,
       "by_lang": {
         "ko": 1,
         "ja": 2
       },
-      "text": "ユ厨ユ其〉\n6 한\n間そ"
+      "text": "ユ厨ユ其\n6 한\n間-"
     },
     {
       "region": "p1_r2",
@@ -97,13 +97,13 @@
       "order": 2,
       "file": "p1_r3_col02.png",
       "lang": "ko",
-      "conf": 0.4602,
-      "n_boxes": 5,
+      "conf": 0.6756,
+      "n_boxes": 7,
       "by_lang": {
-        "ko": 5,
+        "ko": 7,
         "ja": 0
       },
-      "text": "불\n\"움\n호실\n에\n\""
+      "text": "볼\n\"움\n호실\n에\n표\n려\n라"
     },
     {
       "region": "p1_r3",
@@ -123,78 +123,78 @@
       "order": 4,
       "file": "p1_r3_col04.png",
       "lang": "ko",
-      "conf": 0.4886,
-      "n_boxes": 4,
+      "conf": 0.588,
+      "n_boxes": 5,
       "by_lang": {
-        "ko": 3,
+        "ko": 4,
         "ja": 1
       },
-      "text": "질\n1\n이\n육"
+      "text": "인\n질\n1\n이\n육"
     },
     {
       "region": "p1_r3",
       "order": 5,
       "file": "p1_r3_col05.png",
       "lang": "ko",
-      "conf": 0.9877,
+      "conf": 0.9085,
       "n_boxes": 5,
       "by_lang": {
-        "ko": 4,
-        "ja": 1
+        "ko": 3,
+        "ja": 2
       },
-      "text": "잠\n시\n기\n一\n요"
+      "text": "잠\n시\n7\n一\n요"
     },
     {
       "region": "p1_r3",
       "order": 6,
       "file": "p1_r3_col06.png",
       "lang": "ko",
-      "conf": 0.5866,
-      "n_boxes": 6,
+      "conf": 0.6097,
+      "n_boxes": 7,
       "by_lang": {
-        "ko": 6,
+        "ko": 7,
         "ja": 0
       },
-      "text": "다\n든\n앞\n가\n유\n다"
+      "text": "땅\n:\n거\n앞\n가\n유\n다"
     },
     {
       "region": "p1_r3",
       "order": 7,
       "file": "p1_r3_col07.png",
       "lang": "ko",
-      "conf": 0.8592,
-      "n_boxes": 6,
+      "conf": 0.7328,
+      "n_boxes": 5,
       "by_lang": {
-        "ko": 6,
+        "ko": 5,
         "ja": 0
       },
-      "text": "곳\n나\n흙\n0\n올\n다"
+      "text": "곳\n올\n0\n올\n다"
     },
     {
       "region": "p1_r3",
       "order": 8,
       "file": "p1_r3_col08.png",
       "lang": "ko",
-      "conf": 0.4552,
-      "n_boxes": 6,
+      "conf": 0.3461,
+      "n_boxes": 5,
       "by_lang": {
-        "ko": 6,
+        "ko": 5,
         "ja": 0
       },
-      "text": "애\n그\n육\n각\n흉\n화"
+      "text": "애\n육\n각\n흉\n화"
     },
     {
       "region": "p1_r3",
       "order": 9,
       "file": "p1_r3_col09.png",
-      "lang": "ja",
-      "conf": 0.0938,
-      "n_boxes": 1,
+      "lang": "unknown",
+      "conf": 0.0,
+      "n_boxes": 0,
       "by_lang": {
         "ko": 0,
-        "ja": 1
+        "ja": 0
       },
-      "text": "昌"
+      "text": ""
     },
     {
       "region": "p1_r3",
@@ -214,13 +214,13 @@
       "order": 11,
       "file": "p1_r3_col11.png",
       "lang": "ko",
-      "conf": 0.6791,
-      "n_boxes": 4,
+      "conf": 0.4665,
+      "n_boxes": 2,
       "by_lang": {
-        "ko": 4,
+        "ko": 2,
         "ja": 0
       },
-      "text": "기\n간\n평\n#"
+      "text": "7\n평"
     },
     {
       "region": "p1_r3",
@@ -253,13 +253,13 @@
       "order": 2,
       "file": "p1_r4_col02.png",
       "lang": "ja",
-      "conf": 0.7535,
-      "n_boxes": 7,
+      "conf": 0.5513,
+      "n_boxes": 5,
       "by_lang": {
-        "ko": 4,
+        "ko": 2,
         "ja": 3
       },
-      "text": "#\nヲ\n接\n'\n間\n=\n}"
+      "text": "#\nヲ\nす\n=\n:"
     },
     {
       "region": "p1_r4",
@@ -279,13 +279,13 @@
       "order": 4,
       "file": "p1_r4_col04.png",
       "lang": "ja",
-      "conf": 0.5769,
-      "n_boxes": 8,
+      "conf": 0.2965,
+      "n_boxes": 4,
       "by_lang": {
         "ko": 2,
-        "ja": 6
+        "ja": 2
       },
-      "text": "#\n人\nか\n今\n#\"\n得ェ\n'\n弓"
+      "text": "*\n;\n得ェ\n'"
     },
     {
       "region": "p1_r4",
@@ -305,65 +305,65 @@
       "order": 6,
       "file": "p1_r4_col06.png",
       "lang": "ko",
-      "conf": 0.4752,
-      "n_boxes": 10,
+      "conf": 0.6083,
+      "n_boxes": 8,
       "by_lang": {
-        "ko": 5,
-        "ja": 5
+        "ko": 4,
+        "ja": 4
       },
-      "text": "그\n초\n소\n감\nデ\nx\n가\n後子\n弥\n'"
+      "text": "그\n숲\nデ\nx\n가\n後子\nJ\n'"
     },
     {
       "region": "p1_r4",
       "order": 7,
       "file": "p1_r4_col07.png",
       "lang": "ja",
-      "conf": 0.7041,
-      "n_boxes": 8,
+      "conf": 0.766,
+      "n_boxes": 3,
       "by_lang": {
-        "ko": 2,
-        "ja": 6
+        "ko": 0,
+        "ja": 3
       },
-      "text": "直\nス\n出\n주\n*\nり\n父\n:"
+      "text": "直\n出\n'"
     },
     {
       "region": "p1_r4",
       "order": 8,
       "file": "p1_r4_col08.png",
       "lang": "ja",
-      "conf": 0.7499,
-      "n_boxes": 9,
+      "conf": 0.7468,
+      "n_boxes": 5,
       "by_lang": {
-        "ko": 6,
-        "ja": 3
+        "ko": 3,
+        "ja": 2
       },
-      "text": "1\n久\n5\n振\n\"\n=\nS}\n\"\n:"
+      "text": "振\n)\n=\n@\n:"
     },
     {
       "region": "p1_r4",
       "order": 9,
       "file": "p1_r4_col09.png",
-      "lang": "ko",
-      "conf": 0.4522,
-      "n_boxes": 8,
+      "lang": "ja",
+      "conf": 0.5793,
+      "n_boxes": 7,
       "by_lang": {
-        "ko": 5,
-        "ja": 3
+        "ko": 3,
+        "ja": 4
       },
-      "text": "誠三\n=\n喜言\n크\n시*\n:\ny\n["
+      "text": "誠\n=\n喜\n\"\n:\ny\n["
     },
     {
       "region": "p1_r4",
       "order": 10,
       "file": "p1_r4_col10.png",
       "lang": "unknown",
-      "conf": 0.2278,
-      "n_boxes": 4,
+      "conf": 0.2758,
+      "n_boxes": 3,
       "by_lang": {
-        "ko": 2,
+        "ko": 1,
         "ja": 2
       },
-      "text": "\"\n〉\n3\n'"
+      "text": "'\n3\n'"
     },
     {
       "region": "p1_r4",
@@ -383,26 +383,26 @@
       "order": 1,
       "file": "p2_r1_col01.png",
       "lang": "ko",
-      "conf": 0.7211,
+      "conf": 0.7558,
       "n_boxes": 4,
       "by_lang": {
-        "ko": 3,
-        "ja": 1
+        "ko": 4,
+        "ja": 0
       },
-      "text": "예\n#무\n#사\n1"
+      "text": "예\n#무\n사\n1"
     },
     {
       "region": "p2_r1",
       "order": 2,
       "file": "p2_r1_col02.png",
       "lang": "ko",
-      "conf": 0.458,
-      "n_boxes": 14,
+      "conf": 0.4481,
+      "n_boxes": 13,
       "by_lang": {
-        "ko": 8,
+        "ko": 7,
         "ja": 6
       },
-      "text": "堂入}\n차\n』\n'J\n興\n成\n물\n#향\n푹\n'골\n羽\n겨\n돌\n波"
+      "text": "堂入}\n차\n』\n'J\n興\n成\n물\n#향\n'골\n羽\n겨\n돌\n波"
     },
     {
       "region": "p2_r1",
@@ -435,13 +435,13 @@
       "order": 5,
       "file": "p2_r1_col05.png",
       "lang": "ko",
-      "conf": 0.4658,
-      "n_boxes": 8,
+      "conf": 0.6158,
+      "n_boxes": 9,
       "by_lang": {
         "ko": 4,
-        "ja": 4
+        "ja": 5
       },
-      "text": "-이\n箇マ}\n겨월\n前忍\n에\n故辺\n1\n읽"
+      "text": "=\n箇マ}\n겨월\n前忍\n에\n故辺\n1\n1\n리"
     },
     {
       "region": "p2_r1",
@@ -473,105 +473,105 @@
       "region": "p2_r2",
       "order": 1,
       "file": "p2_r2_col01.png",
-      "lang": "ja",
-      "conf": 0.6362,
-      "n_boxes": 6,
+      "lang": "ko",
+      "conf": 0.5124,
+      "n_boxes": 4,
       "by_lang": {
-        "ko": 1,
-        "ja": 5
+        "ko": 2,
+        "ja": 2
       },
-      "text": "か\n#\n二\n暮\nシ\n\""
+      "text": "か\n#\n표\n\""
     },
     {
       "region": "p2_r2",
       "order": 2,
       "file": "p2_r2_col02.png",
-      "lang": "ko",
-      "conf": 0.4781,
-      "n_boxes": 14,
+      "lang": "ja",
+      "conf": 0.4671,
+      "n_boxes": 10,
       "by_lang": {
-        "ko": 9,
-        "ja": 5
+        "ko": 6,
+        "ja": 4
       },
-      "text": "i\nJ :\n#\n다\n?\nデ\n\"\n'\n1\n取;\n込\n그\nデ\nx"
+      "text": "E\nL5\n>\n\"\nI5\n#\n取;\n込\nデ\nx"
     },
     {
       "region": "p2_r2",
       "order": 3,
       "file": "p2_r2_col03.png",
       "lang": "ja",
-      "conf": 0.584,
-      "n_boxes": 10,
+      "conf": 0.5787,
+      "n_boxes": 7,
       "by_lang": {
-        "ko": 3,
-        "ja": 7
+        "ko": 2,
+        "ja": 5
       },
-      "text": "7\n;\n}\n숲\n=\nごモ\nタッ\nゴレ\nタ\n'"
+      "text": "#\n=\nごモ\nタッ\nゴレ\nタ\n'"
     },
     {
       "region": "p2_r2",
       "order": 4,
       "file": "p2_r2_col04.png",
       "lang": "unknown",
-      "conf": 0.404,
-      "n_boxes": 4,
+      "conf": 0.5284,
+      "n_boxes": 3,
       "by_lang": {
-        "ko": 2,
+        "ko": 1,
         "ja": 2
       },
-      "text": "!\n;\n3\n#"
+      "text": "!\n3\n#"
     },
     {
       "region": "p2_r2",
       "order": 5,
       "file": "p2_r2_col05.png",
-      "lang": "ko",
-      "conf": 0.3352,
-      "n_boxes": 4,
+      "lang": "unknown",
+      "conf": 0.4383,
+      "n_boxes": 2,
       "by_lang": {
-        "ko": 1,
-        "ja": 3
+        "ko": 2,
+        "ja": 0
       },
-      "text": "此;\n5\n축\nキ"
+      "text": "#\n'"
     },
     {
       "region": "p2_r2",
       "order": 6,
       "file": "p2_r2_col06.png",
       "lang": "ja",
-      "conf": 0.5601,
-      "n_boxes": 10,
+      "conf": 0.5444,
+      "n_boxes": 3,
       "by_lang": {
-        "ko": 4,
-        "ja": 6
+        "ko": 2,
+        "ja": 1
       },
-      "text": "h\nカ\nぜ\n=\n響\ns\nり\n'\n;\n手"
+      "text": "\"\nゼ\n'"
     },
     {
       "region": "p2_r2",
       "order": 7,
       "file": "p2_r2_col07.png",
       "lang": "ja",
-      "conf": 0.7031,
-      "n_boxes": 6,
+      "conf": 0.6201,
+      "n_boxes": 4,
       "by_lang": {
-        "ko": 4,
-        "ja": 2
+        "ko": 3,
+        "ja": 1
       },
-      "text": "廻\n\"\nR\nヤ\n;\n;"
+      "text": "廻\n\"\n;\n;"
     },
     {
       "region": "p2_r2",
       "order": 8,
       "file": "p2_r2_col08.png",
-      "lang": "ja",
-      "conf": 0.4737,
-      "n_boxes": 8,
+      "lang": "ko",
+      "conf": 0.3522,
+      "n_boxes": 4,
       "by_lang": {
-        "ko": 4,
-        "ja": 4
+        "ko": 3,
+        "ja": 1
       },
-      "text": "출\n多\nウ\n機弓\nF*島\n'\n'\n#"
+      "text": "출\n그 f}\n機弓\n국지다"
     },
     {
       "region": "p2_r2",

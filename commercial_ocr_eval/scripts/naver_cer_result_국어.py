@@ -145,7 +145,7 @@ def evaluate_multiple_pages(gt_json_path, ocr_dir, page_to_ocr_map):
 # =====================================================================
 if __name__ == "__main__":
     # 1. 평가할 정답지(GT) 파일 경로
-    GT_FILE_PATH = "../../gt_json/1913 국어선어쌍성통해_after.json" 
+    GT_FILE_PATH = "../../gt_json/1913 국어선어쌍설통해_after.json" 
     
     # 2. 네이버 OCR 결과 파일들이 들어있는 폴더 경로
     OCR_DIR = "../ocr_output/naver_answer"
