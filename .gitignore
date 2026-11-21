@@ -13,5 +13,5 @@ __pycache__/
 *_key*
 
 # 원시 데이터(소장 기관 정책상 미배포, README의 취득 안내 참조)
-images/preprocessed_rubyonly/
 results_debug/
+preprocessed_rubyonly/
