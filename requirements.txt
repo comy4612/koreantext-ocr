@@ -1,6 +1,23 @@
-opencv-python>=4.9
-numpy>=1.26
-easyocr>=1.7
-pytesseract>=0.3.10
+# 실험 환경 (2026-11 실측, Python 3.11.15)
+# 모델 가중치의 판본과 해시는 ENVIRONMENT.md 참조
+
+opencv-python==5.0.0
+numpy==2.4.6
+easyocr==1.7.2
+pytesseract==0.3.13
+
 # 클라우드 API 호출(run_ocr.py) 사용 시에만 필요
-requests>=2.31
+requests==2.32.3
+
+# EasyOCR이 요구하는 백엔드. CUDA 빌드는 설치 환경에 따라 다르므로
+# 본 연구에서 사용한 판본을 그대로 적는다.
+#   torch==2.13.0+cu130   (https://download.pytorch.org/whl/cu130)
+# CPU만 사용할 경우 torch==2.13.0 으로 설치하면 된다.
+torch==2.13.0
+
+# ─────────────────────────────────────────────────────────────
+# pip으로 설치되지 않는 구성 요소
+#   tesseract-ocr 5.3.4 (Leptonica 1.82.0)
+#   kor_vert.traineddata / jpn_vert.traineddata
+#     ← tessdata_best 판본 (https://github.com/tesseract-ocr/tessdata_best)
+#   EasyOCR 모델(craft_mlt_25k, korean_g2, japanese_g2)은 최초 실행 시 자동 내려받음
